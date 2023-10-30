@@ -1,0 +1,42 @@
+site_name: Projeto de Arquitetura de Software
+site_url: https://https://github.com/Klebber-ifpi/Arquitetura
+
+nav:
+  - Home: 'index.md'
+  - Introdução: 'introducao.md'
+  - Identificação do Projeto: 'identificacao.md'
+  - Representação Arquitetural: 'representacao.md'
+  - Guia de Estilo: 'estilo.md'
+  - Metas e Restrições da Arquitetura: 'metas.md'
+  - Padrões e Práticas Recomendadas: 'metas.md'
+  - Comunicação e Integração: 'componentes.md'
+  - Segurança: 'seguranca.md'
+  - Desempenho e Escalabilidade: 'desempenho.md'
+  - Realizações de Casos de Uso: 'casos.md'
+  - Plano de Risco: 'risco.md'
+  - Estimativas de Custo: 'custo.md'
+  - Prototipação: 'prototipacao.md'
+  - Metodologia: 'metodologia.md'
+  - Visão Geral: 'visaogeral.md'
+  - Visão Lógica: 'logica.md'
+  - Visão de Processos: 'processos.md'
+  - Visão de Implantação: 'implantacao.md'
+  - Visão de Dados: 'dados.md'
+  - Qualidade: 'qualidade.md'
+  - Anexos: 'anexos.md'
+  - Referências: 'referencias.md'
+
+theme: readthedocs
+
+extra_javascript:
+  - https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js
+extra_css:
+  - stylesheets/extra.css
+
+markdown_extensions:
+  - pymdownx.highlight
+  - pymdownx.superfences
+  - pymdownx.emoji
+  - pymdownx.tasklist
+  - pymdownx.tilde
+  - pymdownx.highlight
