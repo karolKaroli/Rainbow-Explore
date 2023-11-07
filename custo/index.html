@@ -1,0 +1,341 @@
+<!DOCTYPE html>
+<html class="writer-html5" lang="en" >
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" /><link rel="canonical" href="https://https:/github.com/karolKaroli/Rainbow-Explore.git/custo/" />
+      <link rel="shortcut icon" href="../img/favicon.ico" />
+    <title>Estimativas de Custo - Projeto de Arquitetura de Software</title>
+    <link rel="stylesheet" href="../css/theme.css" />
+    <link rel="stylesheet" href="../css/theme_extra.css" />
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/styles/github.min.css" />
+        <link href="../stylesheets/extra.css" rel="stylesheet" />
+    
+      <script>
+        // Current page data
+        var mkdocs_page_name = "Estimativas de Custo";
+        var mkdocs_page_input_path = "custo.md";
+        var mkdocs_page_url = "/github.com/karolKaroli/Rainbow-Explore.git/custo/";
+      </script>
+    
+    <!--[if lt IE 9]>
+      <script src="../js/html5shiv.min.js"></script>
+    <![endif]-->
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/11.8.0/highlight.min.js"></script>
+      <script>hljs.highlightAll();</script> 
+</head>
+
+<body class="wy-body-for-nav" role="document">
+
+  <div class="wy-grid-for-nav">
+    <nav data-toggle="wy-nav-shift" class="wy-nav-side stickynav">
+    <div class="wy-side-scroll">
+      <div class="wy-side-nav-search">
+          <a href=".." class="icon icon-home"> Projeto de Arquitetura de Software
+        </a><div role="search">
+  <form id ="rtd-search-form" class="wy-form" action="../search.html" method="get">
+      <input type="text" name="q" placeholder="Search docs" aria-label="Search docs" title="Type search term here" />
+  </form>
+</div>
+      </div>
+
+      <div class="wy-menu wy-menu-vertical" data-spy="affix" role="navigation" aria-label="Navigation menu">
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="..">Home</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../introducao/">Introdução</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../identificacao/">Identificação do Projeto</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../representacao/">Representação Arquitetural</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../estilo/">Guia de Estilo</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../metas/">Metas e Restrições da Arquitetura</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../metas/">Padrões e Práticas Recomendadas</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../componentes/">Comunicação e Integração</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../seguranca/">Segurança</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../desempenho/">Desempenho e Escalabilidade</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../casos/">Realizações de Casos de Uso</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../risco/">Plano de Risco</a>
+                </li>
+              </ul>
+              <ul class="current">
+                <li class="toctree-l1 current"><a class="reference internal current" href="./">Estimativas de Custo</a>
+    <ul class="current">
+    <li class="toctree-l2"><a class="reference internal" href="#introducao">Introdução</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#estimativa-de-custo">Estimativa de Custo</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#custo-de-aquisicao">Custo de Aquisição</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#custo-pessoal">Custo Pessoal</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#ferramentas">Ferramentas</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#custo-total-do-projeto">Custo Total do Projeto</a>
+    </li>
+    <li class="toctree-l2"><a class="reference internal" href="#referencias">Referências</a>
+    </li>
+    </ul>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../prototipacao/">Prototipação</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../metodologia/">Metodologia</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../visaogeral/">Visão Geral</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../logica/">Visão Lógica</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../processos/">Visão de Processos</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../implantacao/">Visão de Implantação</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../dados/">Visão de Dados</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../qualidade/">Qualidade</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../anexos/">Anexos</a>
+                </li>
+              </ul>
+              <ul>
+                <li class="toctree-l1"><a class="reference internal" href="../referencias/">Referências</a>
+                </li>
+              </ul>
+      </div>
+    </div>
+    </nav>
+
+    <section data-toggle="wy-nav-shift" class="wy-nav-content-wrap">
+      <nav class="wy-nav-top" role="navigation" aria-label="Mobile navigation menu">
+          <i data-toggle="wy-nav-top" class="fa fa-bars"></i>
+          <a href="..">Projeto de Arquitetura de Software</a>
+        
+      </nav>
+      <div class="wy-nav-content">
+        <div class="rst-content"><div role="navigation" aria-label="breadcrumbs navigation">
+  <ul class="wy-breadcrumbs">
+    <li><a href=".." class="icon icon-home" aria-label="Docs"></a></li>
+      <li class="breadcrumb-item active">Estimativas de Custo</li>
+    <li class="wy-breadcrumbs-aside">
+    </li>
+  </ul>
+  <hr/>
+</div>
+          <div role="main" class="document" itemscope="itemscope" itemtype="http://schema.org/Article">
+            <div class="section" itemprop="articleBody">
+              
+                <h1 id="plano-de-gerenciamento-de-custos">Plano de Gerenciamento de Custos</h1>
+<h2 id="introducao">Introdução</h2>
+<ul>
+<li>Descrição breve do objetivo do plano de gerenciamento de custos no contexto do projeto.</li>
+</ul>
+<h2 id="estimativa-de-custo">Estimativa de Custo</h2>
+<ul>
+<li>Descrição da metodologia e critérios utilizados para estimar os custos do projeto.</li>
+</ul>
+<h2 id="custo-de-aquisicao">Custo de Aquisição</h2>
+<ul>
+<li>Detalhamento dos custos de aquisição, incluindo equipamentos, espaço de trabalho, transporte, alimentação e outros.</li>
+</ul>
+<h2 id="custo-pessoal">Custo Pessoal</h2>
+<ul>
+<li>Detalhamento dos custos relacionados ao pessoal envolvido no projeto, incluindo a equipe de desenvolvimento.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Função</th>
+<th>Quantidade</th>
+<th>Salário</th>
+<th>Valor mensal total</th>
+<th>Tempo de execução do projeto</th>
+<th>Valor Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Equipe de desenvolvimento</td>
+<td>7</td>
+<td>R$ 6.818</td>
+<td>R$ 43.267</td>
+<td>4</td>
+<td>R$ 173.068</td>
+</tr>
+</tbody>
+</table>
+<h2 id="ferramentas">Ferramentas</h2>
+<ul>
+<li>Descrição das ferramentas, produtos ou equipamentos necessários para o projeto, com detalhes sobre quantidade e custos.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Produto/Equipamento</th>
+<th>Quantidade</th>
+<th>Valor Unitário</th>
+<th>Valor mensal</th>
+<th>Tempo de execução do projeto</th>
+<th>Valor Total</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Notebook</td>
+<td>7</td>
+<td>R$ 4.999,90</td>
+<td>-</td>
+<td>-</td>
+<td>R$ 34.999,3</td>
+</tr>
+<tr>
+<td>Internet</td>
+<td>7</td>
+<td>R$ 129,99</td>
+<td>R$ 909,93</td>
+<td>4</td>
+<td>R$ 3.639,72</td>
+</tr>
+<tr>
+<td>Total</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>-</td>
+<td>R$ 38.639,02</td>
+</tr>
+</tbody>
+</table>
+<h2 id="custo-total-do-projeto">Custo Total do Projeto</h2>
+<ul>
+<li>Apresentação do custo total do projeto, incluindo custo pessoal, ferramentas, margem de riscos e margem de lucro.</li>
+</ul>
+<table>
+<thead>
+<tr>
+<th>Custo</th>
+<th>Valor</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Custo Pessoal</td>
+<td>R$ 173.068</td>
+</tr>
+<tr>
+<td>Ferramentas</td>
+<td>R$ 38.639,02</td>
+</tr>
+<tr>
+<td>20% de Riscos</td>
+<td>R$ 42.221,404</td>
+</tr>
+<tr>
+<td>60% de Lucro</td>
+<td>R$ 126.664,212</td>
+</tr>
+<tr>
+<td>Valor total do projeto</td>
+<td>R$ 380.592,636</td>
+</tr>
+</tbody>
+</table>
+<h2 id="referencias">Referências</h2>
+<ul>
+<li>Lista de fontes ou referências utilizadas para embasar as estimativas de custo.</li>
+</ul>
+              
+            </div>
+          </div><footer>
+    <div class="rst-footer-buttons" role="navigation" aria-label="Footer Navigation">
+        <a href="../risco/" class="btn btn-neutral float-left" title="Plano de Risco"><span class="icon icon-circle-arrow-left"></span> Previous</a>
+        <a href="../prototipacao/" class="btn btn-neutral float-right" title="Prototipação">Next <span class="icon icon-circle-arrow-right"></span></a>
+    </div>
+
+  <hr/>
+
+  <div role="contentinfo">
+    <!-- Copyright etc -->
+  </div>
+
+  Built with <a href="https://www.mkdocs.org/">MkDocs</a> using a <a href="https://github.com/readthedocs/sphinx_rtd_theme">theme</a> provided by <a href="https://readthedocs.org">Read the Docs</a>.
+</footer>
+          
+        </div>
+      </div>
+
+    </section>
+
+  </div>
+
+  <div class="rst-versions" role="note" aria-label="Versions">
+  <span class="rst-current-version" data-toggle="rst-current-version">
+    
+    
+      <span><a href="../risco/" style="color: #fcfcfc">&laquo; Previous</a></span>
+    
+    
+      <span><a href="../prototipacao/" style="color: #fcfcfc">Next &raquo;</a></span>
+    
+  </span>
+</div>
+    <script src="../js/jquery-3.6.0.min.js"></script>
+    <script>var base_url = "..";</script>
+    <script src="../js/theme_extra.js"></script>
+    <script src="../js/theme.js"></script>
+      <script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/10.1.1/highlight.min.js"></script>
+      <script src="../search/main.js"></script>
+    <script>
+        jQuery(function () {
+            SphinxRtdTheme.Navigation.enable(true);
+        });
+    </script>
+
+</body>
+</html>
