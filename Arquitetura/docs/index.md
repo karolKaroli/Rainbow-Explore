@@ -1,4 +1,4 @@
-<img src="./img/Rainbow" width="125" height="125">
+<img src="./img/Rainbow.jpeg" width="100" height="100">
 # Sobre
 
 Este repositório é destinado ao grupo - [** Agile Minds**](https://github.com/karolKaroli/Rainbow-Explore.git), contém toda a documentação do   projeto da disciplina **Engenharia de Software III - Arquitetura e Design de Software**, ministrada pela Professor **Cleber Araujo**, no **Instituto Federal do Piaui Campus Pedro II, durante o período de 2023/2**.
