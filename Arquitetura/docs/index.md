@@ -14,8 +14,10 @@ Este repositório é destinado ao grupo - [** Agile Minds**](https://github.com/
 
 |Foto | Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
+|<img src="./img/Octodex.jpg" width="50" height="50">| 5748559 | Assunção Cardoso | [Assunção Cardoso ](https://github.com/assuncaocardoso) |fabricio@outlook.com|
+|<img src="./img/Beatriz.jpg" width="50" height="50">| 5748559 | Beatriz Bezerra | [Beatriz Bezerra ](https://github.com/BeatrizBezerraNasc) |fabricio@outlook.com|
 |<img src="./img/Denes.jpeg" width="50" height="50">| 2022123tads0209 | Denes Duarte | [Denes Duarte](https://github.com/DenesDuarte)|denesduarte.2016@gmail.com|
-|<img src="./img/1320457.png" width="50" height="50">| 5748559 | Fabricio | [Fabricio](https://github.com/fabricio) |fabricio@outlook.com|
+|<img src="./img/Karol.jpg" width="50" height="50">| 2022123tads0209 | Yanne Karoline | [Yanne Karoline](https://github.com/karolKaroli)|denesduarte.2016@|
 
 # Histórico de Revisões
 |Versão | Data | Descrição | Autor | 
