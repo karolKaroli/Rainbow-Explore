@@ -1,18 +1,20 @@
 <img src="./img/ifpi" width="125" height="125">
 # Sobre
 
-Este repositório é destinado ao grupo x - [**gXchange**](Link do repositório do Github), contém toda a documentação do   projeto da disciplina **Engenharia de Software III - Arquitetura e Design de Software**, ministrada pela Professor **Cleber Araujo**, no **Instituto Federal do Piaui Campus Pedro II, durante o período de 2023/2**.
+Este repositório é destinado ao grupo - [** Agile Minds**](https://github.com/karolKaroli/Rainbow-Explore.git), contém toda a documentação do   projeto da disciplina **Engenharia de Software III - Arquitetura e Design de Software**, ministrada pela Professor **Cleber Araujo**, no **Instituto Federal do Piaui Campus Pedro II, durante o período de 2023/2**.
 
 <br />
 
-# Nome da Empresa de Desenvolvimento 
-- Falar brevemente sobre a Empresa e a equipe de desenvolvimento. 
+# Rainbow Explore!!!
+- Conectando destinos, colorindo memórias.
+- Aqui você encontra os melhores pacotes de viagem como o melhór conforte e preços imperdiveis.
+
 
 # Contribuidores
 
 |Foto | Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
-|<img src="./img/1320457.png" width="50" height="50">| 1244667 | Maria Mileny | [Maria Mileny](https://github.com/mariamileny)|mileny@outlook.com|
+|<img src="./img/Octodex.jpg" width="50" height="50">| 1244667 | Denes Duarte | [Denes Duarte](https://github.com/DenesDuarte)|denesduarte.2016@gmail.com|
 |<img src="./img/1320457.png" width="50" height="50">| 5748559 | Fabricio | [Fabricio](https://github.com/fabricio) |fabricio@outlook.com|
 
 # Histórico de Revisões
