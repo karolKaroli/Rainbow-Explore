@@ -1,4 +1,4 @@
-<img src="./img/ifpi" width="125" height="125">
+<img src=".Arquitetura/docs/site/img/Rainbow.jpeg" width="125" height="125">
 # Sobre
 
 Este repositório é destinado ao grupo - [** Agile Minds**](https://github.com/karolKaroli/Rainbow-Explore.git), contém toda a documentação do   projeto da disciplina **Engenharia de Software III - Arquitetura e Design de Software**, ministrada pela Professor **Cleber Araujo**, no **Instituto Federal do Piaui Campus Pedro II, durante o período de 2023/2**.
@@ -14,7 +14,7 @@ Este repositório é destinado ao grupo - [** Agile Minds**](https://github.com/
 
 |Foto | Matrícula | Nome | GitHub | E-mail|
 |:--:|:--:|:--:|:--:|:--:|
-|<img src="./site/img/Denes.jpg" width="50" height="50">| 2022123tads0209 | Denes Duarte | [Denes Duarte](https://github.com/DenesDuarte)|denesduarte.2016@gmail.com|
+|<img src=".Arquitetura/docs/site/img/Denes.jpg" width="50" height="50">| 2022123tads0209 | Denes Duarte | [Denes Duarte](https://github.com/DenesDuarte)|denesduarte.2016@gmail.com|
 |<img src="./img/1320457.png" width="50" height="50">| 5748559 | Fabricio | [Fabricio](https://github.com/fabricio) |fabricio@outlook.com|
 
 # Histórico de Revisões
