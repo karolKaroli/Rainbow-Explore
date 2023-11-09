@@ -9,7 +9,7 @@ Autores:
 
 ## Paleta de Cores
 
-A paleta de cores é composta por cinco cores base, incluindo marrom, duas tonalidades de azul e duas tonalidades de cinza que interagem bem com o marrom. A imagem a seguir mostra a paleta de cores e como as cores se complementam.
+A paleta de cores é composta pelas sete cores do arco íris, 
 
 ![Paleta de Cores](inserir link da imagem)
 
