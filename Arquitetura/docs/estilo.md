@@ -4,7 +4,7 @@ Este guia de estilo tem como função registrar as decisões de design relaciona
 
 ## Logo
 
-<img src="./img/Rainbow.jpeg" width="600" height="120">
+<img src="./img/Rainbow.jpeg" width="700" height="150"><br>
 Autores:  
 
 ## Paleta de Cores
