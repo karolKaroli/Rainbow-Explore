@@ -4,7 +4,9 @@ Este guia de estilo tem como função registrar as decisões de design relaciona
 
 ## Logo
 
-<img src="./img/Rainbow.jpeg" width="700" height="150"><br>
+![Logo do Markdown](img/Rain.jpg)
+
+
 Autores:  
 
 ## Paleta de Cores
