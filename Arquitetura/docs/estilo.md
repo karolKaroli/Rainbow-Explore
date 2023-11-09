@@ -4,7 +4,7 @@ Este guia de estilo tem como função registrar as decisões de design relaciona
 
 ## Logo
 
-![Logo do Markdown](img/Rain.jpg)
+![Logo do Rainbow](img/Rain.jpg)
 
 
 Autores:  
