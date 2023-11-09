@@ -4,8 +4,8 @@ Este guia de estilo tem como função registrar as decisões de design relaciona
 
 ## Logo
 
-![Logo com fundo](inserir link da imagem)
-Autores: ----- e ----- 
+<img src="./img/Rainbow.jpeg" width="600" height="120">
+Autores:  
 
 ## Paleta de Cores
 
