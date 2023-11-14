@@ -28,8 +28,12 @@ Esta seção define o papel ou finalidade do Documento de Arquitetura de Softwar
 - Quem deve usar o documento.
 - Identificação do público específico.
 #### Uso do Documento:
-- Como o documento deve ser utilizado.
-- Propósito para diferentes tipos de leitores.
+- O documento poderá ser usando para auxiliar na manuteção e entedimento da aplicação em diferentes níveis.
+##### Propósito para diferentes tipos de leitores.
+###### Letores desenvolvedores:
+- Entedimento das feramentas usadas, metódos e arquitetura do projeto além de acesso aos diagramas de UML e protótipos.
+###### Leitores sem conhecimento no desenvolvimento:
+- Entedimento de como foi organizado e planejado o projeto.
 #### Resumo da Arquitetura:
 - Breve descrição da arquitetura geral.
 - Destaques dos principais componentes e decisões arquiteturais.
