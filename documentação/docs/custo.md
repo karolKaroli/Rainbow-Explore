@@ -1,7 +1,7 @@
 # Plano de Gerenciamento de Custos
 
 ## Introdução
-- Descrição breve do objetivo do plano de gerenciamento de custos no contexto do projeto.
+- Este tópico tem com objetivo mostar as metricas que foram usadas para o desenvolvimento do projeto e os custos e lucros.
 
 ## Estimativa de Custo
 - Descrição da metodologia e critérios utilizados para estimar os custos do projeto.
