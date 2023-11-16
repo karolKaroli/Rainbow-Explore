@@ -9,7 +9,8 @@
 
 # Técnicas de Elicatação de Requisitos
 - Para levantarmos os requisitos do sistema **Rainbow - X** utilizamos a técnica de entrevista com nosso cliente, dessa forma conseguimos extrair o maximo do que o sistema do nosso cliente realmente precia na implementação.
-# Requisitos Funcionais 
+# Requisitos Funcionais
+![Logo de RF](img/RF.jpg) 
 
 |Código |Identificação |Classificação |Ator |Objetivo|
 |------ |--------------|--------------|-----|--------|
@@ -47,7 +48,7 @@
 |[RF32] | Sobre Clima | Importante |Usuário| Este caso de uso serve para o usuário ver como estão as condições climáticas|
 
 # Requisitos Não Funcionais 
-
+![Logo de RNF](img/RNF.jpg)
 
 |Código |Identificação |Classificação |Ator |Objetivo|
 |------ |--------------|--------------|-----|--------|
