@@ -10,7 +10,6 @@
 # Técnicas de Elicatação de Requisitos
 - Para levantarmos os requisitos do sistema **Rainbow - X** utilizamos a técnica de entrevista com nosso cliente, dessa forma conseguimos extrair o maximo do que o sistema do nosso cliente realmente precia na implementação.
 # Requisitos Funcionais 
-- Liste todos os requisitios funcionais identificados. 
 
 |Código |Identificação |Classificação |Ator |Objetivo|
 |------ |--------------|--------------|-----|--------|
@@ -40,10 +39,13 @@
 |[RF24] | Fazer Backup | Importante |Administração| Este caso de uso serve para a administração fazer backup|
 |[RF25] | Verificar Regulamentação | Importante |Administração| Este caso de uso serve para a administração fazer verificações de regulamentações dos países|
 |[RF26] | Espaço para feedback | Importante |Usuário| Este caso de uso serve para a usuário dá um feedback quanto a satisfação do atendimento|
-|[RF26] | Verificar Histórico | Importante |Usuário| Este caso de uso serve para a usuário ver seus históricos de viagens/hotéis reservados|
+|[RF27] | Verificar Histórico | Importante |Usuário| Este caso de uso serve para a usuário ver seus históricos de viagens/hotéis reservados|
+|[RF28] | Escolher Data | Importante |Usuário| Este caso de uso serve para a usuário fazer escolha de datas no ato da reservas|
+|[RF29] | Fazer Pagamento | Importante |Usuário| Este caso de uso serve para a usuário fazer pagamento com multiplas opções|
 
 # Requisitos Não Funcionais 
 - Liste todos os requisitios não-funcionais identificados.
+
 
 |Código |Identificação |Classificação |Ator |Objetivo|
 |------ |--------------|--------------|-----|--------|
