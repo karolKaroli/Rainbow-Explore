@@ -41,12 +41,21 @@
 |[RF26] | Espaço para feedback | Importante |Usuário| Este caso de uso serve para a usuário dá um feedback quanto a satisfação do atendimento|
 |[RF27] | Verificar Histórico | Importante |Usuário| Este caso de uso serve para a usuário ver seus históricos de viagens/hotéis reservados|
 |[RF28] | Escolher Data | Importante |Usuário| Este caso de uso serve para a usuário fazer escolha de datas no ato da reservas|
-|[RF29] | Fazer Pagamento | Importante |Usuário| Este caso de uso serve para a usuário fazer pagamento com multiplas opções|
+|[RF29] | Fazer Pagamento | Importante |Usuário| Este caso de uso serve para o usuário fazer pagamento com multiplas opções|
+|[RF30] | Rastrear Bagagem | Importante |Sistema| Este caso de uso serve para a sistema fazer rastreamento das bagagens|
+|[RF31] | Acento Reservado | Importante |Usuário| Este caso de uso serve para o usuário ver as opções para passageiros especiais|
+|[RF32] | Sobre Clima | Importante |Usuário| Este caso de uso serve para o usuário ver como estão as condições climáticas|
 
 # Requisitos Não Funcionais 
-- Liste todos os requisitios não-funcionais identificados.
 
 
 |Código |Identificação |Classificação |Ator |Objetivo|
 |------ |--------------|--------------|-----|--------|
-|[RNF01] |Efetuar Login |Importante    |Usuário| Este caso de uso serve para o usuário entrar no sistema|
+|[RNF01] | Usabilidade |Importante |Sistema| Este caso de uso serve para o sistema oferta ao usuário fácio acesso ao mesmo|
+|[RNF02] | Responsividade |Importante |Sistema| Este caso de uso serve para o sistema se adptar a diversas plataformas|
+|[RNF03] | Rapidez |Importante |Sistema| Este caso de uso serve para o sistema ter agilidade na execução|
+|[RNF04] | Disponibilidade |Importante |Sistema| Este caso de uso serve para que o sistema esteja disponível na escala de 24x7|
+|[RNF05] | Sistema Operacional |Importante |Sistema| Este caso de uso serve para que o sistema seja acessado por todos os sistemas operacionais|
+|[RNF06] | Hardware a Ser Utiliadzo |Importante |Sistema| Este caso de uso serve para que o sistema seja acessado por todos os aparelhos eletrônicos|
+|[RNF07] | Capacidade de Acesso |Importante |Sistema| Este caso de uso serve para que o sistema tenha alta capacidade de acessos simultâneos|
+|[RNF07] | Time p/ Concluir Reserva |Importante |Sistema| Este caso de uso serve para que o sistema aborte reservas não concluídas em 15 min|
