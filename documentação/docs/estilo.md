@@ -1,6 +1,6 @@
 # Guia de Estilo
 
-Este guia de estilo tem como função registrar as decisões de design relacionadas à implementação do projeto ----------. Serve como uma ferramenta de comunicação entre a equipe de design e a equipe de desenvolvimento.
+Este guia de estilo tem como função registrar as decisões de design relacionadas à implementação do projeto Rainbow Explore. Serve como uma ferramenta de comunicação entre a equipe de design e a equipe de desenvolvimento.
 
 ## Logo
 
@@ -11,9 +11,10 @@ Autores:
 
 ## Paleta de Cores
 
-A paleta de cores é composta pelas sete cores do arco íris, 
+A paleta de cores é composta pelas sete cores do arco íris o vermelho, laranja, amarelo, verde, azul, anil e violeta. Na logo foram usadas as cinco primeiras cores em sua tonalidade mais neutra. Logo abaixo é exibido os tons da paleta. 
+ 
 
-![Paleta de Cores](inserir link da imagem)
+![Paleta de Cores](img/Cores.png)
 
 ## Tipografia
 
