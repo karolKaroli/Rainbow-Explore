@@ -6,8 +6,22 @@
 # Estratégia de Design e Implementação
 - **Princípios SOLID:** Explique como o projeto adotará os princípios de Design SOLID, e forneça exemplos de código explicados, se aplicável.
 
+O projeto adotará os cinco pricipios de Desing SOLID.
+
+- **Single Responsiblity Principle (Princípio da responsabilidade única)** : Todas as classe e interface que forem usadas no desenvolvimento terão somente uma responsabilidade, não sendo atribuidas metódos e  atributos que não se relacionam com a finalidade da clase.
+- **Open-Closed Principle (Princípio Aberto-Fechado)** : Não será possivel fazer alterações no código porém deverá ser possivel aplicar herança tanto em classe quanto interface.
+- **Liskov Substitution Principle (Princípio da substituição de Liskov)** : Todos os metódos e atributos da "classe pai" poderá ser acessada, implementada e sobrescrita na "classe filho" e relaizará todas as operações.
+- **Interface Segregation Principle (Princípio da Segregação da Interface)** :  Cada interface só terá metódos que sejam pretinete ao tipo de interface ou suas extensões.
+- **Dependency Inversion Principle (Princípio da inversão da dependência)** : O foco das implentações será as abistrações nas interface e não diretamente nas classes.
+
 # Ferramentas de Desenvolvimento
-- **Lista de Ferramentas:** Enumere todas as ferramentas de desenvolvimento que serão necessárias para alcançar os objetivos do projeto. Isso pode incluir ambientes de desenvolvimento, bibliotecas, frameworks, ferramentas de controle de versão, etc.
+- **Lista de Ferramentas:** Enumere todas as ferramentas de desenvolvimento que serão necessárias para alcançar os objetivos do projeto. Isso pode incluir ambientes de desenvolvimento, bibliotecas, frameworks, ferramentas de controle de versão, etc. (apagar está parte depois).
+
+- As ferramentas de desenvovimento a serem ultilizadas são as seguintes:
+- **Ambiente de desenvolvimento** : Visual Studio Code.
+- **Biblioteca** : Falta adicionar.
+- **Frameworks** : Falta adicionar.
+- **Ferramenta de controle de versão** : Git e Github.
 
 # Cronograma
 - **Fases do Projeto:** Apresente um cronograma detalhado que descreva o que será implementado em cada fase do projeto. Isso pode incluir marcos, datas de entrega, tarefas específicas e responsabilidades. É recomendado criar uma tabela para melhorar a apresentação!
