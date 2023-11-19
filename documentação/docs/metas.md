@@ -1,7 +1,79 @@
 # Linguagem
-- **Escolha da Linguagem:** Descreva a linguagem de programação escolhida para o desenvolvimento do software.
-- **Critérios de Escolha:** Liste os critérios que levaram à escolha da linguagem.
-- **Familiaridade da Equipe:** Avalie a familiaridade da equipe de desenvolvimento com a linguagem.
+## Liguagens ecolhidas :
+### Aplicativo
+- Swift
+- Kotlin
+### Site
+- HTML
+- Css
+- javascript
+- Python
+
+
+### **Critérios de Escolha:** Liste os critérios que levaram à escolha da linguagem.
+- **Swift** é uma linguagem de programação desenvolvida pela Apple para o desenvolvimento de aplicativos iOS nativos. É uma linguagem moderna, fácil de aprender e muito popular entre os desenvolvedores iOS.
+- **Kotlin**  é uma linguagem de programação moderna e escalável que se tornou a linguagem de programação preferida para o desenvolvimento de aplicativos Android nativos, além de possuir diversas vantagem em relação outras linguagens onde pode-se citar código mais limpo e menos verboso em comparação ao Java.
+- **HTML** é a principal linguagem de marcação usada atualmente no mercado e surpotada pela maioria dos navegadores.
+- **Css** é a folha de estilho que geralmente associado ao html.
+- **JavaScript** é a principal linguagem de programação do front-end trazendo dinâmicidade ao site.
+- **Python** é uma liguem com vasta aplicabilidade e com grande comunidade.
+
+### **Familiaridade da Equipe:** Avalie a familiaridade da equipe de desenvolvimento com a linguagem.
+
+Swift
+
+| Nome | Cargo | Conhece a linguagem |
+|-----|-----------|------|
+| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Beatriz Bezerra |   Desenvolvedora     |          |
+| Denes Duarte  |    Analista de requisitos   |           |
+| Yanne Karoline |        Arquiteta do projeto        |      Não      |
+
+Kotlin
+
+| Nome | Cargo | Conhece a linguagem |
+|-----|-----------|------|
+| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Beatriz Bezerra |   Desenvolvedora     |          |
+| Denes Duarte  |    Analista de requisitos   |           |
+| Yanne Karoline |        Arquiteta do projeto        |       Sim     |
+
+HTML
+
+| Nome | Cargo | Conhece a linguagem |
+|-----|-----------|------|
+| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Beatriz Bezerra |   Desenvolvedora     |          |
+| Denes Duarte  |    Analista de requisitos   |           |
+| Yanne Karoline |        Arquiteta do projeto        |      Sim      |
+
+CSS
+
+| Nome | Cargo | Conhece a linguagem |
+|-----|-----------|------|
+| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Beatriz Bezerra |   Desenvolvedora     |          |
+| Denes Duarte  |    Analista de requisitos   |           |
+| Yanne Karoline |        Arquiteta do projeto        |      Sim      |
+
+JavaScript
+
+| Nome | Cargo | Conhece a linguagem |
+|-----|-----------|------|
+| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Beatriz Bezerra |   Desenvolvedora     |          |
+| Denes Duarte  |    Analista de requisitos   |           |
+| Yanne Karoline |        Arquiteta do projeto        |      Sim      |
+
+
+Python
+
+| Nome | Cargo | Conhece a linguagem |
+|-----|-----------|------|
+| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Beatriz Bezerra |   Desenvolvedora     |          |
+| Denes Duarte  |    Analista de requisitos   |           |
+| Yanne Karoline |        Arquiteta do projeto        |      Sim      |
 
 # Estratégia de Design e Implementação
 - **Princípios SOLID:** Explique como o projeto adotará os princípios de Design SOLID, e forneça exemplos de código explicados, se aplicável.
