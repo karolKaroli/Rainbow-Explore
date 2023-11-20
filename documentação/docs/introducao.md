@@ -49,8 +49,15 @@ O que será visto em cada seção deste documento
 
 
 #### Público-Alvo:
-- Quem deve usar o documento.
-- Identificação do público específico.
+**Quem deve usar o documento**
+
+- Programadores.
+- Arquitetos de software.
+- Gerentes de Qualidade.
+- Solicitante do projeto.
+- Usuários do sistema.
+
+- **Identificação do público específico**
 #### Uso do Documento:
 - O documento poderá ser usando para auxiliar na manuteção e entedimento da aplicação em diferentes níveis.
 ##### Propósito para diferentes tipos de leitores.
