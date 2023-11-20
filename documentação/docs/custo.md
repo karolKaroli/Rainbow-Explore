@@ -5,6 +5,7 @@
 
 ## Estimativa de Custo
 - Descrição da metodologia e critérios utilizados para estimar os custos do projeto.
+Para a estimativa de custo foi calculado os valores de salários e aquisição de equipamentos no projeto.
 
 ## Custo de Aquisição
 - Detalhamento dos custos de aquisição, incluindo equipamentos, espaço de trabalho, transporte, alimentação e outros.
@@ -14,17 +15,19 @@
 
 | Função                  | Quantidade | Salário     | Valor mensal total | Tempo de execução do projeto | Valor Total   |
 |-------------------------|------------|------------|---------------------|------------------------------|---------------|
-| Equipe de desenvolvimento | 7          | R$ 6.818     | R$ 43.267            | 4                            | R$ 173.068    |
-
+| Equipe de desenvolvimento | 1          | R$ 6.818     | R$ 6.818            | 7                            | R$ 47.726    |
+| Equipe de qualidade | 1 | 6.818 | 6.818 | 4 | 27.272|
+| Equipe de requisitos | 1 | 4.570| 4570 |2| 9.140|
+| equipe de arquitetura | 1 | 20.750 | 20.750 | 10 | 207.500 |
 
 ## Ferramentas
 - Descrição das ferramentas, produtos ou equipamentos necessários para o projeto, com detalhes sobre quantidade e custos.
 
 | Produto/Equipamento | Quantidade | Valor Unitário | Valor mensal | Tempo de execução do projeto | Valor Total |
 |---------------------|------------|----------------|--------------|-------------------------------|-------------|
-| Notebook            | 7          | R$ 4.999,90    | -            | -                             | R$ 34.999,3 |
-| Internet            | 7          | R$ 129,99      | R$ 909,93    | 4                           | R$ 3.639,72  |
-| Total               | -          | -              | -            | -                           | R$ 38.639,02 |
+| Notebook            | 4          | R$ 4.950,90    | -            | -                             | R$ 19.803,6 |
+| Internet            | 4          | R$ 129,99      | R$ 909,93    | 10                           | R$ 519.00,96  |
+| Total               | -          | -              | -            | -                           | R$ 20.323,56 |
 
 
 ## Custo Total do Projeto
@@ -32,11 +35,11 @@
 
 | Custo                       | Valor          |
 |-----------------------------|-----------------|
-| Custo Pessoal              | R$ 173.068      |
-| Ferramentas                | R$ 38.639,02    |
-| 20% de Riscos              | R$ 42.221,404   |
-| 60% de Lucro               | R$ 126.664,212  |
-| Valor total do projeto     | R$ 380.592,636  |
+| Custo Pessoal              | R$ 291.638      |
+| Ferramentas                | R$ 20.323,56    |
+| 20% de Riscos              | R$ 62.392,312   |
+| 60% de Lucro               | R$ 183.176,936  |
+| Valor total do projeto     | R$  557.530,808 |
 
 
 ## Referências
