@@ -24,6 +24,30 @@ Esta seção define o papel ou finalidade do Documento de Arquitetura de Softwar
 #### Visão Geral do Documento:
 - Estrutura geral do documento.
 - Resumo das seções ou capítulos.
+
+O que será visto em cada seção deste documento
+
+- **Indentificação do projeto :**
+- **Representação Arquitetural :**
+- **Guia de estilo :**
+- **Metas e restrições da arquitetura :**
+- **Padrões e préticas recomendadas :**
+- **Comunicação e integração :**
+- **Segurança :**
+- **Desenpenho e escabilidade :**
+- **Casos de uso :**
+- **Plano de risco :**
+- **Estimativa de custo :**
+- **Prototipação :**
+- **Metodologia :**
+- **Visão geral :**
+- **Visão logica :**
+- **Visão de processo :**
+- **Visão de implatação :**
+- **Visão de dados :**
+- **Qualidade :**
+
+
 #### Público-Alvo:
 - Quem deve usar o documento.
 - Identificação do público específico.
