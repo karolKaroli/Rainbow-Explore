@@ -2,10 +2,19 @@
 
 |Projeto | Requisitante | Gerente de Projetos|
 | -------| ------------ | -------------------|
-|   Eng. de Software - III   | Prof: Cleber da S. Araujo |     Assunção       |
+|  Rainbow-Explore  | Prof: Cleber da S. Araujo |     Yanne Karoline       |
 
 # Brainstorming 
-- Explique e coloque imagens de todas as reuniões do grupo, incluindo explicação de como ocorreu, datas, colaboraçoes, o que foi excluido e acatado na reuinão.  Esta apresentação deve incluir todos os esboços iniciais, ideias e as contribuições de cada membro do grupo, além da lista de frequência e votação.
+- Explique e coloque imagens de todas as reuniões do grupo, incluindo explicação de como ocorreu, datas, colaboraçoes, o que foi excluido e acatado na reuinão.  Esta apresentação deve incluir todos os esboços iniciais, ideias e as contribuições de cada membro do grupo, além da lista de frequência e votação. <br>
+
+| Debate em Grupo | Data | Imagens | Feedback |
+| ----------| -----| --------|-----------|
+|  Nome da Equipe  | 17 a 21/08/2023   |  ![Nomes da Equipe](img/equipe_v.jpg) <br><br> ![Nomes da Equipe](img/equipe_d.jpg)  <br><br> ![Nomes da Equipe](img/equipe_b.jpeg)    |**Como surgiu o nome “Agile minds”?** <br><br> Foi sugerido para os membros colocarem<br> sugestões no grupo do Whatsapp.<br> Após os integrantes Denes e Ana Vitória<br> sugerirem alguns nomes conforme imagens ao <br>lado a Beatriz optou por 'Agile minds' e os<br> demais acompanharam. |<br>
+
+| 1° - Reunião<br> Definições|Integrantes| Frequência | Data | Imagens | Feedback |
+| ----------| ------  | -----------|-----------|-----------|-----------|
+|  - Carogos<br> - Logo/Nome<br> - Ordem da 1°<br> Apresentação    |   Ana Vitória<br>Assunção<br>Beatriz<br>Denes<br>Karol |  Ausente<br>Presente<br>Presente<br>Presente<br>Presente<br>  |   26/08/2023    |       |   => Cada integrante decide um nome para o sistema;<br> => Decidir uma paleta de cores;<br>=> Combinado uma nova reunião para construção da logo;<br> =>  **Funções de cada integrante no 1° momento:**<br> --> Arquiteto de Software: (Yanne Karoline);<br> -->Desenvolvedor Sênio: (Beatriz e Denes);<br> --> Analista de Requisitos: (Ana Vitória);<br> --> Gerente de Qualidade: (Assunção). |
+
 
 # Técnicas de Elicatação de Requisitos
 - Para levantarmos os requisitos do sistema **Rainbow - X** utilizamos a técnica de entrevista com nosso cliente, dessa forma conseguimos extrair o maximo do que o sistema do nosso cliente realmente precia na implementação.

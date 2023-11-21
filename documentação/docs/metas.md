@@ -26,7 +26,7 @@ Swift
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |          |
 | Beatriz Bezerra |   Desenvolvedora     |          |
-| Denes Duarte  |    Analista de requisitos   |           |
+| Denes Duarte  |    Analista de requisitos   |     Não      |
 | Yanne Karoline |        Arquiteta do projeto        |      Não      |
 
 Kotlin
@@ -35,7 +35,7 @@ Kotlin
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |          |
 | Beatriz Bezerra |   Desenvolvedora     |          |
-| Denes Duarte  |    Analista de requisitos   |           |
+| Denes Duarte  |    Analista de requisitos   |     Não      |
 | Yanne Karoline |        Arquiteta do projeto        |       Sim     |
 
 HTML
@@ -44,7 +44,7 @@ HTML
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |          |
 | Beatriz Bezerra |   Desenvolvedora     |          |
-| Denes Duarte  |    Analista de requisitos   |           |
+| Denes Duarte  |    Analista de requisitos   |     Sim       |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
 
 CSS
@@ -53,7 +53,7 @@ CSS
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |          |
 | Beatriz Bezerra |   Desenvolvedora     |          |
-| Denes Duarte  |    Analista de requisitos   |           |
+| Denes Duarte  |    Analista de requisitos   |     Sim       |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
 
 JavaScript
@@ -62,7 +62,7 @@ JavaScript
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |          |
 | Beatriz Bezerra |   Desenvolvedora     |          |
-| Denes Duarte  |    Analista de requisitos   |           |
+| Denes Duarte  |    Analista de requisitos   |     Sim       |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
 
 
@@ -72,7 +72,7 @@ Python
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |          |
 | Beatriz Bezerra |   Desenvolvedora     |          |
-| Denes Duarte  |    Analista de requisitos   |           |
+| Denes Duarte  |    Analista de requisitos   |     Sim      |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
 
 # Estratégia de Design e Implementação
