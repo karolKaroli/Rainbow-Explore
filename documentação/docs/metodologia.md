@@ -12,7 +12,7 @@
 
 ## Reuniões
 
-- **Ferramentas de Comunicação:** Liste as ferramentas de comunicação que serão utilizadas para reuniões e compartilhamento de tela, como Microsoft Teams, Google Meets e Discord.
+- **Ferramentas de Comunicação:** Foi utilizada apenas uma ferramenta de comunicação para as reuniões e para o compartilhamento de tela, que foi o Google Meets. 
 
 ## Outras Considerações
 - [Inclua outras informações relevantes sobre a metodologia e práticas adotadas, se aplicável.]
