@@ -7,7 +7,8 @@
 *Anexe imagens da reũnião da equipe tanto presencial, quanto virtual*
 
 ## Organização da Equipe
-- **Estrutura de Equipe:** Explique como a equipe é organizada
+- **Estrutura de Equipe:** Temos quatro cargos na equipe, cada cargo é ocupado por um componente, temos a arquiteta de software, ela é responsável pela estrutura do projeto e faz as melhores escolhas. Desenvolvedora sênior, ela analisa, desenvolve e soluciona alguns desafios que aparecem no desenvolvimento do software.O analista de requisitos ele é a ponte entre o cliente e as informações para o sucesso do projeto, ou seja, definindo os requisitos para a construção do software. A gerente de qualidade, ela mantém toda a qualidade do projeto, sendo assim, aumentando a produtividade, confiabilidade e aumentando a satisfação do cliente.
+
 
 ## Reuniões
 
