@@ -1,7 +1,7 @@
 # Metodologia e Práticas de Desenvolvimento
 
 ## Metodologia de Software
-- **Origem da Metodologia:** Explique qual metodologia de desenvolvimento foi utilizada.
+- **Origem da Metodologia:** Atualmente temos as metodologias tradicionais e ágeis. Nesse contexto foi a escolhida a metodologia ágil scrum, nela temos o modelo incremental, ou seja, as tarefas são divididas. Além disso, o scrum divide as funções em um período curto de tempo em duas a quatro semanas com o intuito de alcançar um bom resultado a cada fase do projeto. Portanto, nessa metodologia temos o sprint que é o conjunto de tarefas a ser executada, as fases do scrum são divididas em planejamento do sprint, execução, reunião diária e demonstração dos resultados.
 - **Razões para a Metodologia:** Descreva por que essa abordagem foi escolhida, destacando como ela se adequa ao contexto do projeto e à equipe.
 
 *Anexe imagens da reũnião da equipe tanto presencial, quanto virtual*
