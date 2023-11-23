@@ -46,6 +46,7 @@ Este repositório é destinado ao grupo - [** Agile Minds **](https://github.com
 |Abdenaide|22|
 
 ~~Tachado~~
+~~Tachad~~
 
 ```
     # coding: utf-8
