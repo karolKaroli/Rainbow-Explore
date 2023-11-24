@@ -12,12 +12,12 @@ Este repositório é destinado ao grupo - [** Agile Minds**](https://github.com/
 
 # Contribuidores
 
-|Foto | Matrícula | Nome | GitHub | E-mail|
-|:--:|:--:|:--:|:--:|:--:|
-|<img src="./img/assuncao.jpg" width="50" height="50">| 20211p2ads0231 | Assunção Cardoso | [assuncaocardoso ](https://github.com/assuncaocardoso) |caped.20211p2ads0231@aluno.ifpi.edu.br|
-|<img src="./img/Beatriz.jpg" width="50" height="50">| 2022123tads0080 | Beatriz Bezerra | [BeatrizBezerraNasc ](https://github.com/BeatrizBezerraNasc) |caped.2022123tads0080@aluno.ifpi.edu.br|
-|<img src="./img/Denes.jpeg" width="50" height="50">| 2022123tads0209 | Denes Duarte | [DenesDuarte ](https://github.com/DenesDuarte)|denesduarte.2016@gmail.com|
-|<img src="./img/Karol.jpg" width="50" height="50">| 2022123tads0110 | Yanne Karoline | [karolKaroli ](https://github.com/karolKaroli)|caped.2022123tads0110@aluno.ifpi.edu.br|
+|Foto |Cargo| Matrícula | Nome | GitHub | E-mail|
+|:--:|:--:|:--:|:--:|:--:|:--:|
+|<img src="./img/assuncao.jpg" width="50" height="50">| Gerente de Qualidade | 20211p2ads0231 | Assunção Cardoso | [assuncaocardoso ](https://github.com/assuncaocardoso) |caped.20211p2ads0231@aluno.ifpi.edu.br|
+|<img src="./img/Beatriz.jpg" width="50" height="50">| Desenvolvedora Sênio |2022123tads0080 | Beatriz Bezerra | [BeatrizBezerraNasc ](https://github.com/BeatrizBezerraNasc) |caped.2022123tads0080@aluno.ifpi.edu.br|
+|<img src="./img/Denes.jpeg" width="50" height="50">| Analista de Requisitos |2022123tads0209 | Denes Duarte | [DenesDuarte ](https://github.com/DenesDuarte)|denesduarte.2016@gmail.com|
+|<img src="./img/Karol.jpg" width="50" height="50">| Arquiteta de Software |2022123tads0110 | Yanne Karoline | [karolKaroli ](https://github.com/karolKaroli)|caped.2022123tads0110@aluno.ifpi.edu.br|
 
 # Histórico de Revisões
 |Versão | Data | Descrição | Autor | 
