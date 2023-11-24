@@ -114,15 +114,15 @@ O projeto adotará os cinco pricipios de Desing SOLID.
 ## Tabela
 
 
-| Tarefa | Data de termino | Responsável principal pela tarefa |
-|-----|-----------|------|
-| Fase 1 |    01/09/2023   |   Yanne Karoline        |
-| Fase 2 |    09/10/2023   |   Denes Duarte       |
-| Fase 3 |    30/10/2023   |   Beatriz Bezerra        |
-| Fase 4 |    30/10/2023   |   Yanne Karoline        |
-| Fase 5 |    20/11/2023   |   Yanne Karoline        |
-| Fase 6 |    08/12/2023   |   Yanne Karoline        |
-| Fase 7 |    11/03/2024   |   Beatriz Bezerra        |
-| Fase 8 |    30/03/2024   |   Assunção Cardoso        |
-| Fase 9 |    02/05/2023   |   Beatriz Bezerra       |
-| Fase 10 |    20/05/2023   |   Assunção Cardoso        |
+| Tarefa |Data de inicio | Data de termino | Responsável principal pela tarefa |
+|-----|-----------|------|-----------|
+| Fase 1 | 17/08/2023  | 01/09/2023   |   Yanne Karoline        |
+| Fase 2 |  02/09/2023 | 09/10/2023   |   Denes Duarte       |
+| Fase 3 | 25/09/2023  | 30/10/2023   |   Beatriz Bezerra        |
+| Fase 4 | 20/09/2023  | 30/10/2023   |   Yanne Karoline        |
+| Fase 5 |  31/10/2023 | 20/11/2023   |   Yanne Karoline        |
+| Fase 6 |  21/12/2023 | 08/12/2023   |   Yanne Karoline        |
+| Fase 7 |  01/12/2023 | 11/03/2024   |   Beatriz Bezerra        |
+| Fase 8 |  28/11/2023 | 30/03/2024   |   Assunção Cardoso        |
+| Fase 9 | 02/04/2024  | 02/05/2024   |   Beatriz Bezerra       |
+| Fase 10 | 15/04/2023 | 20/05/2024   |   Assunção Cardoso        |
