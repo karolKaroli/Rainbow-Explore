@@ -18,11 +18,12 @@
 - **Potencial para Reutilização:** Ao analizarmos o diagrama de casos de uso podemos ver que os casos de uso selecionados pode ser reutilizados em diferentes partes do sistema ou em projetos futuros.<br><br>
 
 - **Descrição de Casos de Uso:** Forneça uma breve descrição de cada caso de uso, destacando sua importância arquitetural.<br>
-- **Gerenciar Cadastro:** <br>
-- **Fazer Login:** <br>
-- **Pesquisar Voos:** <br>
-- **Comprar Voos/Pacotes:** <br>
-- **Gerenciar Voos:** <br><br>
+- **Gerenciar Cadastro:** Este caso de uso faz toda a parte de gerenciamento de cadastro de usuários,funcionários, companhias,hotéis e Países/Cidades. Ele é represitado por uma classe abstrata ou uma interface na arquitetura do sistema delegando seus métodos as suas sub-classes concretas;<br>
+- **Fazer Login:** Responsavel pelo gerenciamento/validação de usuário e senha dos clientes permitindo ou não acesso ao sistema, arquiteturalmente voltado a segurança do sistema permitindo acesso conialvel. <br>
+- **Pesquisar Voos:** Permite aos clientes fazerem buscas por voos,hotéis,pacotes de viagens e etc. <br>
+- **Comprar Voos/Pacotes:** Permite aos clientes comprarem voos,reserva de hotéis,pacotes de viagens.<br>
+- **Gerenciar Voos:** Permite aos clientes/funcionários acompanharem em tempo real os dados de um voo específico,claro que o cliente só tem permissões para verificar os dados do seu voo. <br><br>
+
 - **Pontos Complexos da Arquitetura:** Identifique quais pontos complexos e específicos da arquitetura são enfatizados ou ilustrados por cada caso de uso.<br>
 
 # Cenários:
