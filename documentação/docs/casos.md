@@ -1,26 +1,28 @@
 # Diagrama de Casos de Uso
 ![Diagrama de Casos de Uso](img/CasodeUso.png)
-- **Seleção de Casos de Uso:** Liste os Diagramas de Casos de Uso que são considerados arquiteturalmente significativos para o sistema (No mínimo 5).<br>
-- **Gerenciar Cadastro:** <br>
-- **Fazer Login:** <br>
-- **Pesquisar Voos:** <br>
-- **Comprar Voos/Pacotes:** <br>
-- **Gerenciar Voos:** <br>
+
+- **Seleção de Casos de Uso:** Liste os Diagramas de Casos de Uso que são considerados arquiteturalmente significativos para o sistema.
+- **1° - Gerenciar Cadastro;** 
+- **2° - Fazer Login;** 
+- **3° - Pesquisar Voos;** 
+- **4° - Comprar Voos/Pacotes;** 
+- **5° - Gerenciar Voos.** <br><br>
+
 - **Critérios de Seleção:** Explique os critérios que levaram à seleção desses casos de uso.<br>
-- **Impacto na Arquitetura:** <br>
-- **Relevância para Requisitos Não Funcionais:** <br>
-- **Complexidade e Interdependência:** <br>
-- **Alinhamento Com Objetivos de Negócios:** <br>
-- **Viabilidade Técnica:** <br>
-- **Prioridade do Cliente ou Usuário:** <br>
-- **Risco Associado:** <br>
-- **Potencial para Reutilização:** <br>
+- **Impacto na Arquitetura:**  Os casos de usos listados acima, afetam a estrutura global do sistema e sua conformidade com a arquitetura definida.<br>
+- **Complexidade e Interdependência:** Levando em conta a complexidade de cada caso de uso e suas interdependências com outros componentes do sistema.<br>
+- **Alinhamento Com Objetivos de Negócios:** Podemos avaliar que os casos de uso contribuem diretamente para alcançar os objetivos estratéjicos e de negócios do projeto. <br>
+- **Viabilidade Técnica:** Também foram analizadas as implementações de cada caso de uso, constatou-se que, todos são viáveis tecnicamente e podem ser realizados dentro do sistema. <br>
+- **Prioridade do Cliente ou Usuário:** Podemos considerar a importancia percebida pelos clientes ou usuários em relação ao casos de uso.<br>
+- **Risco Associado:** Também foram avaliados os riscos associados à implementação de cada caso de uso.<br>
+- **Potencial para Reutilização:** Ao analizarmos o diagrama de casos de uso podemos ver que os casos de uso selecionados pode ser reutilizados em diferentes partes do sistema ou em projetos futuros.<br><br>
+
 - **Descrição de Casos de Uso:** Forneça uma breve descrição de cada caso de uso, destacando sua importância arquitetural.<br>
 - **Gerenciar Cadastro:** <br>
 - **Fazer Login:** <br>
 - **Pesquisar Voos:** <br>
 - **Comprar Voos/Pacotes:** <br>
-- **Gerenciar Voos:** <br>
+- **Gerenciar Voos:** <br><br>
 - **Pontos Complexos da Arquitetura:** Identifique quais pontos complexos e específicos da arquitetura são enfatizados ou ilustrados por cada caso de uso.<br>
 
 # Cenários:
@@ -106,4 +108,4 @@
 |                   | 4. Apresentar página da companhia selecionada  |
 | 5. Filtrar voo    |                                                |
 |                   | 4. Apresentar dados em tempo real de um voo específico  |
-|  Restrições/Validações |                                                        |
+|  Restrições/Validações |                                                    |
