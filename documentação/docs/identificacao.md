@@ -33,43 +33,42 @@
 |------ |--------------|--------------|-----|--------|
 |[RF01] | Fazer Cadastro/Atualização | Importante |Usuário| Este caso de uso serve para o usuário fazer login;|
 |[RF02] | Efetuar Login | Importante |Usuário| Este caso de uso serve para o usuário entrar no sistema;|
-|[RF03] | Verificar Senha | Importante |Sistema| Este caso de uso serve para o sistema verificar senha do usuário;|
-|[RF04] | Pesquisar Voos | Importante |Usuário| Este caso de uso serve para o usuário fazer busca por voos com detalhes específicos;|
-|[RF05] | Pesquisar Hotéis | Importante |Usuário| Este caso de uso serve para o usuário fazer busca por hotéis;|
-|[RF06] | Escolher Escalas | Importante |Usuário| Este caso de uso serve para o usuário fazer escolha das escalas na viagem;|
-|[RF07] | Escolher Produtos | Importante |Usuário| Este caso de uso serve para o usuário fazer escolha dos produtos para consumir na viagem;|
-|[RF08] | Reservar Voos | Importante |Usuário| Este caso de uso serve para o usuário fazer reserva de voos;|
-|[RF09] | Fazer Check-in | Importante |Usuário| Este caso de uso serve para o usuário fazer check-in do voo;|
-|[RF10] | Atualização | Desejável |Sistema| Este caso de uso serve para o sistema fazer atualização em tempo real sobre o voo;|
-|[RF11] | Reservar Hotéis | Importante |Usuário| Este caso de uso serve para o usuário fazer reserva hotél/tipo de quarto (luxo,super luxo);|
-|[RF12] | Busca Detalhada Por Hotéis | Importante |Usuário| Este caso de uso serve para o usuário fazer busca por hotíes/quartos pelas catategorias;|
-|[RF13] | Verificar Hóspedes | Importante |Sistema| Este caso de uso serve para o sistema solicitar dados pessoais e quantidade de hóspedes no ato da reserva;|
-|[RF14] | Cancelar Reserva | Importante |Usuário| Este caso de uso serve para o usuário solicitar cancelamento de reservas voos/hotéis;|
-|[RF15] | Comprar Pacotes | Importante |Usuário| Este caso de uso serve para permitir que o usuário compre pacotes de voos/hotéis;|
-|[RF16] | Notificar Cliente | Importante |Sistema| Este caso de uso serve para o sistema fazer notificações para o cliente relacionadas a reserva;|
-|[RF17] | Compartilhar Nas Redes Sociais | Importante |Usuário| Este caso de uso serve para o usuário fazer compartilhamento de suas reservas nas redes sociais;|
-|[RF18] | Sugerir Viagens | Importante |Sistema| Este caso de uso serve para o sistema fazer notificações para o cliente com sugestões de viagens/pacotes;|
-|[RF19] | Recuperar Senha | Importante |Usuário| Este caso de uso serve para o usuário solicitar nova senha;|
-|[RF20] | Alertar Cliente | Importante |Sistema| Este caso de uso serve para o sistema fazer alerta ao cliente quanto as restrições do país o qual ele deseja viajar;|
-|[RF21] | Adicionar Companhia | Importante |Administração| Este caso de uso serve para a administração adicionar novas companhias aereas/horários de voos;|
-|[RF22] | Cadastrar Pacote | Importante |Administração| Este caso de uso serve para a administração adicionar pacotes por Cidade/País;|
-|[RF23] | Excluir Companhia/Cidade | Importante |Administração| Este caso de uso serve para a administração excluir Companhias/Cidades;|
-|[RF24] | Gerar Relatório | Importante |Administração| Este caso de uso serve para a administração gerar relatórios;|
-|[RF25] | Fazer Backup | Importante |Administração| Este caso de uso serve para a administração fazer backup;|
-|[RF26] | Verificar Regulamentação | Importante |Administração| Este caso de uso serve para a administração fazer verificações de regulamentações dos países;|
-|[RF27] | Espaço para feedback | Desejável |Usuário| Este caso de uso serve para a usuário dá um feedback quanto a satisfação do atendimento;|
-|[RF28] | Verificar Histórico | Importante |Usuário| Este caso de uso serve para a usuário ver seus históricos de viagens/hotéis reservados;|
-|[RF29] | Escolher Data | Importante |Usuário| Este caso de uso serve para a usuário fazer escolha de datas no ato da reservas;|
-|[RF30] | Fazer Pagamento | Importante |Usuário| Este caso de uso serve para o usuário fazer pagamento com multiplas opções;|
-|[RF31] | Fazer Comunicação | Desejável |Sistema| Este caso de uso serve para o sistema oferecer comunicação em vários idiomas;|
-|[RF32] | Conversão de Moedas | Desejável |Sistema| Este caso de uso serve para o sistema ter a conversão de moedas; |
-|[RF33] | Rastrear Bagagem | Importante |Sistema| Este caso de uso serve para a sistema fazer rastreamento das bagagens;|
-|[RF34] | Acento Reservado | Importante |Usuário| Este caso de uso serve para o usuário ver as opções para passageiros especiais;|
-|[RF35] | Sobre Clima | Importante |Usuário| Este caso de uso serve para o usuário ver como estão as condições climáticas;|
-|[RF36] | Acessibilidade a Surdos | Desejável |Sistema| Este caso de uso serve para o sistema oferecer acessibilidade para surdos;|
-|[RF37] | Acessibilidade a Deficiente visula | Desejável |Sistema| Este caso de uso serve para o sistema oferecer acessibilidade para deficientes visualais;|
-|[RF38] | Suporte ao Cliente | Desejável |Sistema| Este caso de uso serve para o sistema fornecer suprorte ao cliente por assistente virtual;|
-|[RF39] | Pontos Por Níveis | Desejável |Sistema| Este caso de uso serve para o sistema ofertar pontuação por nível de cliente.|
+|[RF03] | Pesquisar Voos | Importante |Usuário| Este caso de uso serve para o usuário fazer busca por voos com detalhes específicos;|
+|[RF04] | Pesquisar Hotéis | Importante |Usuário| Este caso de uso serve para o usuário fazer busca por hotéis;|
+|[RF05] | Escolher Escalas | Importante |Usuário| Este caso de uso serve para o usuário fazer escolha das escalas na viagem;|
+|[RF06] | Escolher Produtos | Importante |Usuário| Este caso de uso serve para o usuário fazer escolha dos produtos para consumir na viagem;|
+|[RF07] | Reservar Voos | Importante |Usuário| Este caso de uso serve para o usuário fazer reserva de voos;|
+|[RF08] | Fazer Check-in | Importante |Usuário| Este caso de uso serve para o usuário fazer check-in do voo;|
+|[RF09] | Atualização | Desejável |Sistema| Este caso de uso serve para o sistema fazer atualização em tempo real sobre o voo;|
+|[RF10] | Reservar Hotéis | Importante |Usuário| Este caso de uso serve para o usuário fazer reserva hotél/tipo de quarto (luxo,super luxo);|
+|[RF11] | Busca Detalhada Por Hotéis | Importante |Usuário| Este caso de uso serve para o usuário fazer busca por hotíes/quartos pelas catategorias;|
+|[RF12] | Verificar Hóspedes | Importante |Sistema| Este caso de uso serve para o sistema solicitar dados pessoais e quantidade de hóspedes no ato da reserva;|
+|[RF13] | Cancelar Reserva | Importante |Usuário| Este caso de uso serve para o usuário solicitar cancelamento de reservas voos/hotéis;|
+|[RF14] | Comprar Pacotes | Importante |Usuário| Este caso de uso serve para permitir que o usuário compre pacotes de voos/hotéis;|
+|[RF15] | Notificar Cliente | Importante |Sistema| Este caso de uso serve para o sistema fazer notificações para o cliente relacionadas a reserva;|
+|[RF16] | Compartilhar Nas Redes Sociais | Importante |Usuário| Este caso de uso serve para o usuário fazer compartilhamento de suas reservas nas redes sociais;|
+|[RF17] | Sugerir Viagens | Importante |Sistema| Este caso de uso serve para o sistema fazer notificações para o cliente com sugestões de viagens/pacotes;|
+|[RF18] | Recuperar Senha | Importante |Usuário| Este caso de uso serve para o usuário solicitar nova senha;|
+|[RF19] | Alertar Cliente | Importante |Sistema| Este caso de uso serve para o sistema fazer alerta ao cliente quanto as restrições do país o qual ele deseja viajar;|
+|[RF20] | Adicionar Companhia | Importante |Administração| Este caso de uso serve para a administração adicionar novas companhias aereas/horários de voos;|
+|[RF21] | Cadastrar Pacote | Importante |Administração| Este caso de uso serve para a administração adicionar pacotes por Cidade/País;|
+|[RF22] | Excluir Companhia/Cidade | Importante |Administração| Este caso de uso serve para a administração excluir Companhias/Cidades;|
+|[RF23] | Gerar Relatório | Importante |Administração| Este caso de uso serve para a administração gerar relatórios;|
+|[RF24] | Fazer Backup | Importante |Administração| Este caso de uso serve para a administração fazer backup;|
+|[RF25] | Verificar Regulamentação | Importante |Administração| Este caso de uso serve para a administração fazer verificações de regulamentações dos países;|
+|[RF26] | Espaço para feedback | Desejável |Usuário| Este caso de uso serve para a usuário dá um feedback quanto a satisfação do atendimento;|
+|[RF27] | Verificar Histórico | Importante |Usuário| Este caso de uso serve para a usuário ver seus históricos de viagens/hotéis reservados;|
+|[RF28] | Escolher Data | Importante |Usuário| Este caso de uso serve para a usuário fazer escolha de datas no ato da reservas;|
+|[RF29] | Fazer Pagamento | Importante |Usuário| Este caso de uso serve para o usuário fazer pagamento com multiplas opções;|
+|[RF30] | Fazer Comunicação | Desejável |Sistema| Este caso de uso serve para o sistema oferecer comunicação em vários idiomas;|
+|[RF31] | Conversão de Moedas | Desejável |Sistema| Este caso de uso serve para o sistema ter a conversão de moedas; |
+|[RF32] | Rastrear Bagagem | Importante |Sistema| Este caso de uso serve para a sistema fazer rastreamento das bagagens;|
+|[RF33] | Acento Reservado | Importante |Usuário| Este caso de uso serve para o usuário ver as opções para passageiros especiais;|
+|[RF34] | Sobre Clima | Importante |Usuário| Este caso de uso serve para o usuário ver como estão as condições climáticas;|
+|[RF35] | Acessibilidade a Surdos | Desejável |Sistema| Este caso de uso serve para o sistema oferecer acessibilidade para surdos;|
+|[RF36] | Acessibilidade a Deficiente visula | Desejável |Sistema| Este caso de uso serve para o sistema oferecer acessibilidade para deficientes visualais;|
+|[RF37] | Suporte ao Cliente | Desejável |Sistema| Este caso de uso serve para o sistema fornecer suprorte ao cliente por assistente virtual;|
+|[RF38] | Pontos Por Níveis | Desejável |Sistema| Este caso de uso serve para o sistema ofertar pontuação por nível de cliente.|
 
 # Requisitos Não Funcionais 
 ![Logo de RNF](img/RNFimg.jpg)
@@ -85,5 +84,5 @@
 |[RNF07] | Capacidade de Acesso |Importante |Sistema| Este caso de uso serve para que o sistema tenha alta capacidade de acessos simultâneos;|
 |[RNF08] | Time para Concluir Reserva |Importante |Sistema| Este caso de uso serve para que o sistema abortar reservas não concluídas em 15 min;|
 |[RNF09] | Teste de Qualidade |Importante |Sistema| Este caso de uso serve para que o sistema seja aprovado nos testes de qualidade;|
-|[RNF10] | Teste de Segurança |Importante |Sistema| Este caso de uso serve para o sistema Fazer verificação em duas etapas;|
+|[RNF10] | Segurança da Senha |Importante |Sistema| Este caso de uso serve para o sistema Fazer verificação em duas etapas;|
 |[RNF11] | Verificação de email |Importante |Sistema| Este caso de uso serve para o sistema Fazer verificação que existe um único email por usuário.|

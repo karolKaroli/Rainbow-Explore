@@ -1,15 +1,15 @@
 # Diagrama de Casos de Uso
 ![Diagrama de Casos de Uso](img/CasodeUso.png)
 
-- **Seleção de Casos de Uso:** Liste os Diagramas de Casos de Uso que são considerados arquiteturalmente significativos para o sistema.
+- **Seleção de Casos de Uso:** *Liste os Diagramas de Casos de Uso que são considerados arquiteturalmente significativos para o sistema*.
 - **1° - Gerenciar Cadastro;** 
 - **2° - Fazer Login;** 
 - **3° - Pesquisar Voos;** 
 - **4° - Comprar Voos/Pacotes;** 
 - **5° - Gerenciar Voos.** <br><br>
 
-- **Critérios de Seleção:** Explique os critérios que levaram à seleção desses casos de uso.<br>
-- **Impacto na Arquitetura:**  Os casos de usos listados acima, afetam a estrutura global do sistema e sua conformidade com a arquitetura definida.<br>
+- **Critérios de Seleção:** *Explique os critérios que levaram à seleção desses casos de uso*.<br>
+- **Impacto na Arquitetura:**  Os casos de usos listados acima, afetam a estrutura global do sistema em sua conformidade com a arquitetura definida.<br>
 - **Complexidade e Interdependência:** Levando em conta a complexidade de cada caso de uso e suas interdependências com outros componentes do sistema.<br>
 - **Alinhamento Com Objetivos de Negócios:** Podemos avaliar que os casos de uso contribuem diretamente para alcançar os objetivos estratéjicos e de negócios do projeto. <br>
 - **Viabilidade Técnica:** Também foram analizadas as implementações de cada caso de uso, constatou-se que, todos são viáveis tecnicamente e podem ser realizados dentro do sistema. <br>
@@ -17,14 +17,14 @@
 - **Risco Associado:** Também foram avaliados os riscos associados à implementação de cada caso de uso.<br>
 - **Potencial para Reutilização:** Ao analizarmos o diagrama de casos de uso podemos ver que os casos de uso selecionados pode ser reutilizados em diferentes partes do sistema ou em projetos futuros.<br><br>
 
-- **Descrição de Casos de Uso:** Forneça uma breve descrição de cada caso de uso, destacando sua importância arquitetural.<br>
+- **Descrição de Casos de Uso:** *Forneça uma breve descrição de cada caso de uso, destacando sua importância arquitetural*.<br>
 - **Gerenciar Cadastro:** Este caso de uso faz toda a parte de gerenciamento de cadastro de usuários,funcionários, companhias,hotéis e Países/Cidades. Ele é represitado por uma classe abstrata ou uma interface na arquitetura do sistema delegando seus métodos as suas sub-classes concretas;<br>
 - **Fazer Login:** Responsavel pelo gerenciamento/validação de usuário e senha dos clientes permitindo ou não acesso ao sistema, arquiteturalmente voltado a segurança do sistema permitindo acesso conialvel. <br>
 - **Pesquisar Voos:** Permite aos clientes fazerem buscas por voos,hotéis,pacotes de viagens e etc. <br>
 - **Comprar Voos/Pacotes:** Permite aos clientes comprarem voos,reserva de hotéis,pacotes de viagens.<br>
 - **Gerenciar Voos:** Permite aos clientes/funcionários acompanharem em tempo real os dados de um voo específico,claro que o cliente só tem permissões para verificar os dados do seu voo. <br><br>
 
-- **Pontos Complexos da Arquitetura:** Identifique quais pontos complexos e específicos da arquitetura são enfatizados ou ilustrados por cada caso de uso.<br>
+- **Pontos Complexos da Arquitetura:** *Identifique quais pontos complexos e específicos da arquitetura são enfatizados ou ilustrados por cada caso de uso*.<br>
 
 # Cenários:
 <!-- **Crie o Cenário:** Crie o cenário completo de ao menos 5 casos de uso.<br--> 
