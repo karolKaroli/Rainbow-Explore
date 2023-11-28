@@ -5,7 +5,7 @@
 |  Rainbow-Explore  | Prof: Cleber da S. Araujo |     Yanne Karoline       |
 
 # Brainstorming 
-- Explique e coloque imagens de todas as reuniões do grupo, incluindo explicação de como ocorreu, datas, colaboraçoes, o que foi excluido e acatado na reuinão.  Esta apresentação deve incluir todos os esboços iniciais, ideias e as contribuições de cada membro do grupo, além da lista de frequência e votação. <br>
+- Segue abaixo imagens de todas as reuniões do grupo, incluindo explicações de como ocorram, datas, colaborações, o que foi excluido e acatado nas reuniões, Incluindo todos os esboços iniciais, ideias e as contribuições de cada membro do grupo, além da lista de frequência e votação. <br>
 
 | Debate em Grupo | Data | Imagens | Feedback |
 | ----------| -----| --------|-----------|
@@ -82,7 +82,7 @@
 |[RNF05] | Sistema Operacional |Importante |Sistema| Este caso de uso serve para que o sistema seja acessado por todos os sistemas operacionais;|
 |[RNF06] | Hardware a Ser Utiliadzo |Importante |Sistema| Este caso de uso serve para que o sistema seja acessado por todos os aparelhos eletrônicos;|
 |[RNF07] | Capacidade de Acesso |Importante |Sistema| Este caso de uso serve para que o sistema tenha alta capacidade de acessos simultâneos;|
-|[RNF08] | Time para Concluir Reserva |Importante |Sistema| Este caso de uso serve para que o sistema abortar reservas não concluídas em 15 min;|
+|[RNF08] | Tempo para Concluir Reserva |Importante |Sistema| Este caso de uso serve para que o sistema abortar reservas não concluídas em 15 min;|
 |[RNF09] | Teste de Qualidade |Importante |Sistema| Este caso de uso serve para que o sistema seja aprovado nos testes de qualidade;|
 |[RNF10] | Segurança da Senha |Importante |Sistema| Este caso de uso serve para o sistema Fazer verificação em duas etapas;|
 |[RNF11] | Verificação de email |Importante |Sistema| Este caso de uso serve para o sistema Fazer verificação que existe um único email por usuário.|
