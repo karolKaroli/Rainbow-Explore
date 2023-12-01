@@ -23,7 +23,7 @@ Nesta subseção, nomearemos e definiremos as diversas camadas e seu conteúdo, 
 
 A figura a seguir ilustra a estrutura de camadas da arquitetura e seus relacionamentos:
 
-[Insira aqui o seu diagrama de componentes que mostra as camadas e os principais componentes]
+![Logo do Rainbow](img/Diag_Componentes_Arquitetura.png)
 
 ### Diagrama de Sequência
 
