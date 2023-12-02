@@ -29,7 +29,7 @@ A figura a seguir ilustra a estrutura de camadas da arquitetura e seus relaciona
 
 Nesta seção, apresentaremos diagramas de sequência que ilustram as interações entre os componentes do sistema em cenários-chave. Esses diagramas destacarão o fluxo de controle e as trocas de mensagens entre os componentes.
 
-[Inclua aqui um ou mais diagramas de sequência relevantes]
+![Logo do Rainbow](img/Diagrama_sequencia.png)
 
 ### Diagrama de Classes
 
