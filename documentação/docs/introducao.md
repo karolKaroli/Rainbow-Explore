@@ -27,25 +27,25 @@ Esta seção define o papel ou finalidade do Documento de Arquitetura de Softwar
 
 O que será visto em cada seção deste documento
 
-- **Indentificação do projeto :**
-- **Representação Arquitetural :**
-- **Guia de estilo :**
-- **Metas e restrições da arquitetura :**
-- **Padrões e préticas recomendadas :**
-- **Comunicação e integração :**
-- **Segurança :**
-- **Desenpenho e escabilidade :**
-- **Casos de uso :**
-- **Plano de risco :**
-- **Estimativa de custo :**
-- **Prototipação :**
-- **Metodologia :**
-- **Visão geral :**
-- **Visão logica :**
+- **Indentificação do projeto :** Será apresentado os brainstorming e requisitos do projeto
+- **Representação Arquitetural :** Será apresentado a arquitetura do projeto
+- **Guia de estilo :** Será apresentado logo, tipografia e paleta de cores usadas
+- **Metas e restrições da arquitetura :** Será apresentado as metas e retrições da arquitetura
+- **Padrões e préticas recomendadas :** Será apresentado as práticas usadas
+- **Comunicação e integração :** Será apresentado os componetes do sistema
+- **Segurança :** Será apresentado o plano de segurança do projeto
+- **Desenpenho e escabilidade :** Será apresentado o plano de desempenho
+- **Casos de uso :** Será apresentado os casos de usos da aplicação
+- **Plano de risco :** Será apresentado o plano de risco 
+- **Estimativa de custo :** Será apresentado o plano de custo do projeto
+- **Prototipação :** Será apresentado o protótipo da aplicação
+- **Metodologia :** Será apresentado a metodologia usada no projeto
+- **Visão geral :** Será apresentado a visõa geral da arquitetura e alguns diagramas
+- **Visão logica :** Será apresentado a parte lógica da aplicação
 - **Visão de processo :**
-- **Visão de implatação :**
-- **Visão de dados :**
-- **Qualidade :**
+- **Visão de implatação :** Será apresentado as implatações do projeto
+- **Visão de dados :** Será apresentado o gerenciamento de dados
+- **Qualidade :** Será apresentado a qualidade do projeto
 
 
 #### Público-Alvo:
