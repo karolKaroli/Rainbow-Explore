@@ -86,7 +86,9 @@ O projeto adotará os cinco pricipios de Desing SOLID.
 - **Interface Segregation Principle (Princípio da Segregação da Interface)** :  Cada interface só terá metódos que sejam pretinete ao tipo de interface ou suas extensões.
 - **Dependency Inversion Principle (Princípio da inversão da dependência)** : O foco das implentações será as abistrações nas interface e não diretamente nas classes.
 
-- As ferramentas de desenvovimento a serem ultilizadas são as seguintes:
+ As ferramentas de desenvovimento a serem ultilizadas são as seguintes:
+
+ 
 - **Ambiente de desenvolvimento** : Visual Studio Code.
 - **Biblioteca** : Pandas, Matplotlib,Redux, React, Purify CSS,Xamarin.
 - **Frameworks** : React, Django, Flutter, Bootstrap.
