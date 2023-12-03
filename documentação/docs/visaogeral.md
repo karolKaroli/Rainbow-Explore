@@ -71,4 +71,5 @@ Nesta seção, apresentaremos diagramas de sequência que ilustram as interaçõ
 Aqui, forneceremos um diagrama de classes que descreve a estrutura de classes do sistema, incluindo atributos e métodos. Esse diagrama ajudará a entender a estrutura dos componentes em cada camada e as relações entre eles.
 
 ![Logo do Rainbow](img/D_class-Rainbow-X.png)
+![Logo do Rainbow](img/D_class-Rainbow-X.png)
 
