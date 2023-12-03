@@ -24,7 +24,7 @@ Swift
 
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
-| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Assunção Cardoso  |    Gerente de qualidade   |     Não     |
 | Beatriz Bezerra |   Desenvolvedora     |          |
 | Denes Duarte  |    Analista de requisitos   |     Não      |
 | Yanne Karoline |        Arquiteta do projeto        |      Não      |
@@ -33,7 +33,7 @@ Kotlin
 
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
-| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Assunção Cardoso  |    Gerente de qualidade   |     Não     |
 | Beatriz Bezerra |   Desenvolvedora     |          |
 | Denes Duarte  |    Analista de requisitos   |     Não      |
 | Yanne Karoline |        Arquiteta do projeto        |       Sim     |
@@ -42,7 +42,7 @@ HTML
 
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
-| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Assunção Cardoso  |    Gerente de qualidade   |     Sim     |
 | Beatriz Bezerra |   Desenvolvedora     |          |
 | Denes Duarte  |    Analista de requisitos   |     Sim       |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
@@ -51,7 +51,7 @@ CSS
 
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
-| Assunção Cardoso  |    Gerente de qualidade   |          |
+| Assunção Cardoso  |    Gerente de qualidade   |    Sim      |
 | Beatriz Bezerra |   Desenvolvedora     |          |
 | Denes Duarte  |    Analista de requisitos   |     Sim       |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
