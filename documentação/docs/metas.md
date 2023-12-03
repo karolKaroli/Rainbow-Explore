@@ -86,9 +86,6 @@ O projeto adotará os cinco pricipios de Desing SOLID.
 - **Interface Segregation Principle (Princípio da Segregação da Interface)** :  Cada interface só terá metódos que sejam pretinete ao tipo de interface ou suas extensões.
 - **Dependency Inversion Principle (Princípio da inversão da dependência)** : O foco das implentações será as abistrações nas interface e não diretamente nas classes.
 
-# Ferramentas de Desenvolvimento
-- **Lista de Ferramentas:** Enumere todas as ferramentas de desenvolvimento que serão necessárias para alcançar os objetivos do projeto. Isso pode incluir ambientes de desenvolvimento, bibliotecas, frameworks, ferramentas de controle de versão, etc. (apagar está parte depois).
-
 - As ferramentas de desenvovimento a serem ultilizadas são as seguintes:
 - **Ambiente de desenvolvimento** : Visual Studio Code.
 - **Biblioteca** : Pandas, Matplotlib,Redux, React, Purify CSS,Xamarin.
