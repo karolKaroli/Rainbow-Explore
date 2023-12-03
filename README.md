@@ -56,12 +56,3 @@ Adicione 1 ou mais vídeos demonstrando a execução do projeto final.
 
 Repositório que deve ser utilizado como template inicial pelos grupos da Disciplina de **Engenharia de Software III** (Arquitetura de Software) do IFPI Campus Pedro II, ministrada pelo **Prof. Cleber Araújo**.
 
-## Introdução
-
-Este repositório traz um template de documentação a ser seguido pelos grupos.
-
-## Tecnologia
-
-A geração do site estático é realizada utilizando o [MkDocs](https://www.mkdocs.org/).
-
-> "MkDocs is a fast, simple and downright gorgeous static site generator that's geared towards building project documentation."
