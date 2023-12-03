@@ -91,8 +91,8 @@ O projeto adotará os cinco pricipios de Desing SOLID.
 
 - As ferramentas de desenvovimento a serem ultilizadas são as seguintes:
 - **Ambiente de desenvolvimento** : Visual Studio Code.
-- **Biblioteca** : Falta adicionar.
-- **Frameworks** : Falta adicionar.
+- **Biblioteca** : Pandas, Matplotlib,Redux, React, Purify CSS,Xamarin.
+- **Frameworks** : React, Django, Flutter, Bootstrap.
 - **Ferramenta de controle de versão** : Git e Github.
 
 # Cronograma
