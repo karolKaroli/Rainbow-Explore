@@ -21,7 +21,7 @@
 
 | 3° - Reunião<br> Definições|Integrantes| Frequência | Data | Imagens | Feedback |
 | ----------| ------  | -----------|-----------|-----------|-----------|
-| - Levantamento <br>de Requisitos  |   Ana Vitória<br>Assunção<br>Beatriz<br>Denes<br>Karol |  Presente<br>Ausente<br>Presente<br>Presente<br>Presente<br>  |   11/09/2023    |  ![Logo oficial](img/Req01.jpeg) <br>    | Nessa reunião como o nosso cliente, por meio de várias pergunta foi onde ficou explícito que ele<br> precisava de um sistema de voos e hotéis baseado na CVC, mas com maiores seduções<br> para atrir clientes. Além disso com o desenrolar da conversa conseguimos abstrair os principais<br> requisitos funcionais e não funcionais para o desenvolvimento do sistema de nosso cliente.     |<br> 
+| - Levantamento <br>de Requisitos  |   Ana Vitória<br>Assunção<br>Beatriz<br>Denes<br>Karol |  Presente<br>Ausente<br>Presente<br>Presente<br>Presente<br>  |   11/09/2023    |  ![Logo oficial](img/Req01.jpeg) <br>    | Nessa reunião como o nosso cliente, por meio de várias pergunta foi onde ficou explícito que ele<br> precisava de um sistema de voos e hotéis baseado na CVC, mas com maiores seduções<br> para atrir clientes. Além disso com o desenrolar da conversa conseguimos abstrair os principais<br> requisitos funcionais e não funcionais para o desenvolvimento do sistema de nosso cliente.<br><br>   - Só pra registrar essa foi a última participação da integrate **Ana Vitória** na equipe, por motivos desconhecidos.   |<br> 
 
 
 # Técnicas de Elicatação de Requisitos
