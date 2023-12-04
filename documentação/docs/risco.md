@@ -11,7 +11,7 @@ Este documento descreve o planejamento e a abordagem de gerenciamento de riscos 
 ## Estrutura Analítica de Riscos (EAR)
 A Estrutura Analítica de Riscos divide os riscos em quatro categorias gerais: Técnico, Externo, Organizacional e Gerenciamento de projeto.
 
-![Logo do Rainbow](img/robo_de_dados.jpeg)
+![Robo de dados](img/robo_de_dados.jpeg)
 
 ### Técnico
 - **Requisitos:** 
