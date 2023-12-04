@@ -1,12 +1,5 @@
 # Introdução
 
-
-A introdução do **Documento de Arquitetura de Software** fornece uma **visão geral do documento inteiro**. Ela inclui a finalidade, o escopo, as definições, os acrônimos, as abreviações, as referências e a visão geral do Documento de Arquitetura de Software. Por exemplo:
-
-> "Este documento oferece uma visão geral arquitetural abrangente do sistema, usando diversas visões arquiteturais para representar diferentes aspectos do sistema. O objetivo deste documento é capturar e comunicar as decisões arquiteturais significativas que foram tomadas em relação ao sistema".
-
-Esta seção define o papel ou finalidade do Documento de Arquitetura de Software, na documentação do projeto como um todo, e descreve rapidamente a estrutura do documento. O público-alvo específico do documento é identificado, com uma indicação de como ele espera usar o documento.
-
 #### Finalidade do Documento:
 - Este documento foi criado para o acompanhamento da arquitetura e desenvolvimento do projeto "Rainbow Explore" ou somente "Rainbow Ex" da equipe Agile Minds. 
 - Objetivo deste documento é apresentar a forma que foi feito o desenvolvimento e planejamento do projeto.
