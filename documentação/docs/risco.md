@@ -51,8 +51,11 @@ A Estrutura Analítica de Riscos divide os riscos em quatro categorias gerais: T
 - Erros de Tradução
 
 ### Gerenciamento de Projeto
-- **Planejamento:** Descreva riscos relacionados a problemas no planejamento do projeto, como escopo impraticável.
+- **Planejamento:** 
+- Erro de planejamento do cronograma, como prazos.
+- Erros do planejamento do custo do projeto.
 - **Estimativa:** Liste riscos relacionados a erros de estimativa, como tamanho do projeto.
+-
 - **Controle:** Descreva riscos relacionados a riscos identificados, mas não tratados.
 - **Comunicação:** Explique riscos relacionados a erros na comunicação com stakeholders.
 
