@@ -17,7 +17,7 @@ A Estrutura Analítica de Riscos divide os riscos em quatro categorias gerais: T
 - Precisão nas estimativas de tempo e localização.
 - **Tecnologia:** 
 - Falta de conhecimento de toda a equipe em algumas tecnológias ultilizadas.
-- Falha de linguagem, como faldo anteriomente a equipe não possui vasto conhecimento em alguma stecnologias assim sendo possivel realizar possiveis falhas de segurança.
+- Falha de linguagem, como faldo anteriomente a equipe não possui vasto conhecimento em algumas tecnologias assim sendo possivel realizar possiveis falhas de segurança.
 - **Infraestrutura:** Descreva riscos relacionados à infraestrutura que sustenta o sistema de informação.
 
 ### Externo

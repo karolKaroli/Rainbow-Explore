@@ -43,18 +43,20 @@ Explique como usar o seu projeto, caso haja algum passo a passo após o comando 
 Adicione 1 ou mais vídeos demonstrando a execução do projeto final.
 
 ## Principal(is) Metodologia(s) Adotada(s)
-- Exemplo.: Scrum
+- Scrum
 
 ## Principais Linguagens Utilizadas e/ou Pretendidas
-- Exemplo.:JavaScript
-- Exemplo.: Python
+- JavaScript
+- Python
+- Kotlin
 
 ## Principais Tecnologias Utilizadas e/ou Pretendidas
-- Exemplo: React
-- Exemplo: Django
+- React
+- Django
+- Flutter
 
 ## Principal(is) Estilo(s) Arquitetural(is) Adotado(s)
-- Exemplo: MTV - Model Template View
+- Arquitetura em camadas
 
 ## O Projeto está rodando?
 ( ) SIM (x) NÃO

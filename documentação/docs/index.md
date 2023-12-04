@@ -24,4 +24,7 @@ Este repositório é destinado ao grupo - [** Agile Minds **](https://github.com
 # Histórico de Revisões
 |Versão | Data | Descrição | Autor | 
 |-----|-----------|------|--------|
-| 1.0  | 01/10/2023 | Adicionado Tela de Login| Cleber Araujo |
+| 1.0  | 09/10/2023 | Requisitos | Denes Duarte |
+| 2.0  | 30/10/2023 | protótipo | Beatriz Bezerra |
+| 3.0  | 30/10/2023 | Escolha de ferramentas | Yanne Karoline |
+
