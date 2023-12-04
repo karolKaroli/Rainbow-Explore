@@ -1,5 +1,6 @@
 # Segurança
 - Estratégias de segurança:
+
 Usar senhas fortes e exigir que sejam alteradas regularmente;
 
 Implementar autenticação multifator, exigindo que os usuários forneçam mais de um fator de autenticação, como uma senha e um código de acesso gerado por um token ou aplicativo;
