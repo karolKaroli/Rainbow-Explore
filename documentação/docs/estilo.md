@@ -5,9 +5,10 @@ Este guia de estilo tem como função registrar as decisões de design relaciona
 ## Logo
 
 ![Logo do Rainbow](img/Rain.jpg)
+![Logo do Rainbow](img/Rainbown.jpeg)
 
 
-Autores:  
+Autores:Beatriz, Yanne, Assunção, Denes, Ana Vitoria. 
 
 ## Paleta de Cores
 
@@ -20,16 +21,9 @@ A paleta de cores é composta pelas sete cores do arco íris o vermelho, laranja
 
 As fontes utilizadas na aplicação serão:
 
-- Clarendon LT (Linotype) para títulos.
-- Sacramento (Open Font License) para títulos.
-- Enriqueta (Open Font License) para textos.
+- Lora para barra de navegação.
+- Hermeneus One para nome de estados.
+- Cantarell para textos e botões.
+- Cinzel para títulos.
 
-## Botões
 
-Os botões utilizados no menu de navegação têm fundos transparentes e usam a cor marrom da paleta de cores em sua fonte, tornando-se mais claros quando o mouse é passado por cima.
-
-![Botões de Menu](inserir link da imagem)
-
-Os demais botões utilizados possuem fundo marrom e a fonte branca.
-
-![Outros Botões](inserir link da imagem)
