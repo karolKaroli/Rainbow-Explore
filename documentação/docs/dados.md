@@ -8,4 +8,4 @@ Utilizamos o modelo **MER (Modelo Entidade Relacionamento)** pois ele é utiliza
 # Gerenciamento de bancos de dados
 - Incluir também imagens e  o modelo do Diagrama de Dados. 
 
-![Banco_de_Dados](img/Diagrama de BD.png)
+![Banco_de_Dados](img/Diagrama_de_BD.png)
