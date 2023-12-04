@@ -9,6 +9,7 @@
 - javascript
 - Python
 
+![Logo do Rainbow](img/Telefone%20móvel%20isométrico%20com%20aplicativos%20e%20serviços%20_%20Vetor%20Premium.jfif)
 
 ### **Critérios de Escolha:** Liste os critérios que levaram à escolha da linguagem.
 - **Swift** é uma linguagem de programação desenvolvida pela Apple para o desenvolvimento de aplicativos iOS nativos. É uma linguagem moderna, fácil de aprender e muito popular entre os desenvolvedores iOS.
@@ -97,7 +98,7 @@ O projeto adotará os cinco pricipios de Desing SOLID.
 # Cronograma
 - **Fases do Projeto:** Apresente um cronograma detalhado que descreva o que será implementado em cada fase do projeto. Isso pode incluir marcos, datas de entrega, tarefas específicas e responsabilidades. É recomendado criar uma tabela para melhorar a apresentação!
 
-## Fazes do projeto
+## Quais são as fazes do projeto
 
 - **Fase 1** Primeiras reuniões, decisões inciais como logo, nome do projeto, paleta de cores.
 - **Fase 2** Definição dos requisitos e suas classificação quanto funcional e não funcional, além de reunião com o cliente.
