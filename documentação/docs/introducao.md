@@ -27,6 +27,8 @@ Não será incluído código fonte.
 - Código limpo: Códigos mais légivesi e sem repetições.
 - Desenvolvimento nativo : Desenvolvimento voltado á um tipo especifico de sistema operacional com Android e IOS.
 - Desenvolvimento front-end: Desenvolvimento voltado á parte visual e visivel ao cliente/usário.
+
+
 #### Referências:
 - Documentos ou fontes consultadas durante a criação da arquitetura.
 - Padrões ou recursos relevantes.
