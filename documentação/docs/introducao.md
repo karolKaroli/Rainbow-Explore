@@ -13,11 +13,20 @@ Esta seção define o papel ou finalidade do Documento de Arquitetura de Softwar
  
 #### Escopo do Documento:
 - O que está incluído no documento.
+
+
+Está incluido neste documento os diagramas do projeto, custos, requisitos, metodologias, prototipo entre outras informações.
+
+
 - O que não está incluído.
 
+
+Não será incluído código fonte.
+
 #### Definições, Acrônimos e Abreviações:
-- Lista de termos técnicos com suas definições.
-- Acrônimos e abreviações com suas expansões.
+- Código limpo: Códigos mais légivesi e sem repetições.
+- Desenvolvimento nativo : Desenvolvimento voltado á um tipo especifico de sistema operacional com Android e IOS.
+- Desenvolvimento front-end: Desenvolvimento voltado á parte visual e visivel ao cliente/usário.
 #### Referências:
 - Documentos ou fontes consultadas durante a criação da arquitetura.
 - Padrões ou recursos relevantes.
