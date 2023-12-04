@@ -25,7 +25,7 @@ Swift
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |     Não     |
-| Beatriz Bezerra |   Desenvolvedora     |          |
+| Beatriz Bezerra |   Desenvolvedora     |      Não    |
 | Denes Duarte  |    Analista de requisitos   |     Não      |
 | Yanne Karoline |        Arquiteta do projeto        |      Não      |
 
@@ -34,7 +34,7 @@ Kotlin
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |     Não     |
-| Beatriz Bezerra |   Desenvolvedora     |          |
+| Beatriz Bezerra |   Desenvolvedora     |    Não      |
 | Denes Duarte  |    Analista de requisitos   |     Não      |
 | Yanne Karoline |        Arquiteta do projeto        |       Sim     |
 
@@ -43,7 +43,7 @@ HTML
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |     Sim     |
-| Beatriz Bezerra |   Desenvolvedora     |          |
+| Beatriz Bezerra |   Desenvolvedora     |     Sim     |
 | Denes Duarte  |    Analista de requisitos   |     Sim       |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
 
@@ -52,7 +52,7 @@ CSS
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |    Sim      |
-| Beatriz Bezerra |   Desenvolvedora     |          |
+| Beatriz Bezerra |   Desenvolvedora     |    Sim      |
 | Denes Duarte  |    Analista de requisitos   |     Sim       |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
 
@@ -61,7 +61,7 @@ JavaScript
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |     Sim     |
-| Beatriz Bezerra |   Desenvolvedora     |          |
+| Beatriz Bezerra |   Desenvolvedora     |    Sim      |
 | Denes Duarte  |    Analista de requisitos   |     Sim       |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
 
@@ -71,7 +71,7 @@ Python
 | Nome | Cargo | Conhece a linguagem |
 |-----|-----------|------|
 | Assunção Cardoso  |    Gerente de qualidade   |      Sim    |
-| Beatriz Bezerra |   Desenvolvedora     |          |
+| Beatriz Bezerra |   Desenvolvedora     |     Sim     |
 | Denes Duarte  |    Analista de requisitos   |     Sim      |
 | Yanne Karoline |        Arquiteta do projeto        |      Sim      |
 
