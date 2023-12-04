@@ -6,7 +6,7 @@ Repositório que deve ser utilizado como template inicial pelos grupos da Discip
 
 Agile Minds
 
-<img src="./img/assuncao.jpg">
+<img src="documentação/docs/img/Agileminds.jpeg">
 
 ## Alunos
 | Matrícula   | Aluno             |
