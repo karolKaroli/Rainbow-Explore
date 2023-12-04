@@ -8,6 +8,12 @@ Agile Minds
 
 <img src="documentação/docs/img/Agileminds.jpeg">
 
+## Projeto
+
+Rainbow Explore
+
+<img src="documentação/docs/img/Rainbow.jpeg">
+
 ## Alunos
 | Matrícula   | Aluno             |
 |-------------|-------------------|
