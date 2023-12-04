@@ -5,7 +5,7 @@
 |  Rainbow-Explore  | Prof: Cleber da S. Araujo |     Yanne Karoline       |
 
 # Brainstorming 
-- Segue abaixo imagens de todas as reuniões do grupo, incluindo explicações de como ocorram, datas, colaborações, o que foi excluido e acatado nas reuniões, Incluindo todos os esboços iniciais, ideias e as contribuições de cada membro do grupo, além da lista de frequência e votação. <br>
+- Segue abaixo imagens de todas as reuniões do grupo, incluindo explicações de como ocorreram, datas, colaborações, o que foi excluido e acatado nas reuniões, incluindo todos os esboços iniciais, ideias e as contribuições de cada membro do grupo, além da lista de frequência e votação. <br>
 
 | Debate em Grupo | Data | Imagens | Feedback |
 | ----------| -----| --------|-----------|
