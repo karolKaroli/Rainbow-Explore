@@ -5,7 +5,7 @@ Tem como principais responsabilidades adicionar voos conforme as necessidades, e
 Além disso, também faz gerenciamento das poltronas por classes onde cada poltrona de acordo com o nível tem suas vantagens.
  Também faz gerenciamento dos voos com cronograma geral de origem e  destino, informações de portões de embarque, horário, tempo de voo e atualizações de imprevistos em caso de atrasos. 
 
-voo: 
+Voo: 
 Essa classe tem atributos muito importantes que são imprescindíveis para a companhia em relação aos voos como: avião, aeroporto de partida, data de partida, horário da partida, aeroporto de chegada, horário de chegada, lotação, peso da carga de embarque e preço da viagem. 
 Além disso, faz relacionamentos importantes com as classes Companhia, Avião, Aeroporto e Passagem.
 Admin:
