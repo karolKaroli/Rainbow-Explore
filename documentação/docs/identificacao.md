@@ -69,6 +69,8 @@
 |[RF36] | Acessibilidade a Deficiente visula | Desejável |Sistema| Este caso de uso serve para o sistema oferecer acessibilidade para deficientes visualais;|
 |[RF37] | Suporte ao Cliente | Desejável |Sistema| Este caso de uso serve para o sistema fornecer suprorte ao cliente por assistente virtual;|
 |[RF38] | Pontos Por Níveis | Desejável |Sistema| Este caso de uso serve para o sistema ofertar pontuação por nível de cliente.|
+|[RF39] | Segurança da Senha |Importante |Sistema| Este caso de uso serve para o sistema Fazer verificação em duas etapas;|
+|[RF40] | Verificação de email |Importante |Sistema| Este caso de uso serve para o sistema Fazer verificação que existe um único email por usuário.|
 
 # Requisitos Não Funcionais 
 ![Logo de RNF](img/RNFimg.jpg)
@@ -84,5 +86,3 @@
 |[RNF07] | Capacidade de Acesso |Importante |Sistema| Este caso de uso serve para que o sistema tenha alta capacidade de acessos simultâneos;|
 |[RNF08] | Tempo para Concluir Reserva |Importante |Sistema| Este caso de uso serve para que o sistema abortar reservas não concluídas em 15 min;|
 |[RNF09] | Teste de Qualidade |Importante |Sistema| Este caso de uso serve para que o sistema seja aprovado nos testes de qualidade;|
-|[RNF10] | Segurança da Senha |Importante |Sistema| Este caso de uso serve para o sistema Fazer verificação em duas etapas;|
-|[RNF11] | Verificação de email |Importante |Sistema| Este caso de uso serve para o sistema Fazer verificação que existe um único email por usuário.|
