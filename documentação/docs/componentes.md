@@ -4,8 +4,8 @@
 - Parâmetro de Gerenciamento de Usuários;
 - Parâmetro de Gerenciamento de Voos;
 - Parâmetro de Gerenciamento de Hotelaria;
-- Parâmetro ulo de Gerenciamento de Cidade/Países;
-- Parâmetro lo de Banco de Dados;
+- Parâmetro de Gerenciamento de Cidade/Países;
+- Parâmetro de Banco de Dados;
 - Parâmetro de Processamento de Pagamentos;
 - Parâmetro de Segurança;
 - Parâmetro de Notificações.

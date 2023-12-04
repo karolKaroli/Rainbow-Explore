@@ -6,24 +6,47 @@ Este documento descreve o planejamento e a abordagem de gerenciamento de riscos 
 - **[Exemplo](https://unbarqdsw2020-2.github.io/2020.2_G5_EasyCoffee/#/entrega1/plano_de_riscos).**
 
 ### Metodologia de Gerenciamento de Riscos
-- Descreva a metodologia de gerenciamento de riscos que será utilizada, incluindo as etapas de identificação, análise qualitativa, análise quantitativa, respostas aos riscos e monitoramento.
+- Desquisão da metodologia de gerenciamento de riscos que será utilizada, incluindo as etapas de identificação, análise qualitativa, análise quantitativa, respostas aos riscos e monitoramento.
 
 ## Estrutura Analítica de Riscos (EAR)
 A Estrutura Analítica de Riscos divide os riscos em quatro categorias gerais: Técnico, Externo, Organizacional e Gerenciamento de projeto.
 
 ### Técnico
-- **Requisitos:** Descreva os riscos relacionados aos requisitos do projeto, incluindo causas e respostas.
-- **Tecnologia:** Liste os riscos relacionados às tecnologias utilizadas e ao relacionamento da equipe com elas.
+- **Requisitos:** 
+- Seguranças das informações dos usuários como cartões, senhas e número de documentos.
+- Precisão nas estimativas de tempo e localização.
+- **Tecnologia:** 
+- Falta de conhecimento de toda a equipe em algumas tecnológias ultilizadas.
+- Falha de linguagem, como faldo anteriomente a equipe não possui vasto conhecimento em alguma stecnologias assim sendo possivel realizar possiveis falhas de segurança.
 - **Infraestrutura:** Descreva riscos relacionados à infraestrutura que sustenta o sistema de informação.
 
 ### Externo
-- **Mercado:** Liste os riscos relacionados à obsolescência da aplicação ou à baixa adesão devido a outras soluções.
-- **Ambiente:** Descreva riscos relacionados ao ambiente externo, incluindo o trabalho remoto em casa devido à pandemia.
+- **Mercado:** 
+- Baixa usabilidade
+- Não foi bem aceito pelos usuários
+- Outra aplicação superou a versão atual desta aplicação
+- **Ambiente:**
+- Guerras
+- Epidemias e Pandemias
+- Restrições dos países
+- Cultura do país de destino
+- Clima
+- Eventos naturais
 
 ### Organizacional
-- **Dependências do projeto:** Liste os riscos relacionados a dependências externas, recursos humanos e priorização de tarefas.
-- **Recursos humanos:** Descreva riscos relacionados aos membros da equipe, como problemas de saúde e comunicação.
-- **Priorização:** Explique riscos relacionados a erros no planejamento, como priorização de tarefas.
+- **Dependências do projeto:** 
+- Computadores da equipe com virus
+- Fallha de internet
+- Não priorizar tarefas importantes
+- **Recursos humanos:** 
+- Falta de comunicação
+- Doença
+- Falta de compromiso
+- **Priorização:** 
+- Superlotação
+- Baixo gerênciamento das diferentes moedas existentes
+- Erros geograficos
+- Erros de Tradução
 
 ### Gerenciamento de Projeto
 - **Planejamento:** Descreva riscos relacionados a problemas no planejamento do projeto, como escopo impraticável.
